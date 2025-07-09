@@ -1,0 +1,273 @@
+{
+  "sections": {
+    "1633949207127d245b": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "npd": true,
+        "ds_height": 380,
+        "tb_height": 250,
+        "mb_height": 250,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/chair-bnr.jpg",
+        "alignment": "center",
+        "pretext": "It’s for grand living",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "<b>Different Furniture, <br>Different Stories<\/b>",
+        "tcl": "#000000",
+        "tfs": 30,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.3,
+        "tmb": 20,
+        "tmbm": 5,
+        "text": "",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "Buy now",
+        "button_link": "shopify:\/\/products\/analog-wall-clock",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": true,
+        "bg": "rgba(0,0,0,0)",
+        "opt": 0,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-aic-md f-jcs-md",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163394840036d12a2f": {
+      "type": "grid-banners",
+      "blocks": {
+        "1558350031635": {
+          "type": "style1",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/1.1.jpg",
+            "text1": "<b>LIVING ROOM<\/b>",
+            "text1-large": "",
+            "bnr1align": "f-jcc f-ais tc",
+            "link1": "shopify:\/\/collections\/furniture",
+            "image2": "shopify:\/\/shop_images\/2_8e2f800a-6167-45ce-bdd3-1f053ba1eccf.jpg",
+            "text2": "<b>TABLEWARE<\/b>",
+            "text2-large": "",
+            "bnr2align": "f-jcc f-aie tc",
+            "link2": "shopify:\/\/collections\/modern-home-design",
+            "image3": "shopify:\/\/shop_images\/3_e49a4d30-bf1f-44e9-800d-e7b9d367dacd.jpg",
+            "text3": "<b>HOME DECOR<\/b>",
+            "text3-large": "",
+            "bnr3align": "f-jce f-aic tr",
+            "link3": "shopify:\/\/collections\/modern-home-design",
+            "image4": "shopify:\/\/shop_images\/4_9882be1e-b689-44ce-b67c-327a99e35602.jpg",
+            "text4": "<b>WALL ARTS<\/b>",
+            "text4-large": "",
+            "bnr4align": "f-aic f-jcs",
+            "link4": "shopify:\/\/collections\/furniture"
+          }
+        }
+      },
+      "block_order": [
+        "1558350031635"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "fullwidth": false,
+        "hide_mobile": false,
+        "cl": "#000000",
+        "fs": 12,
+        "fsm": 14,
+        "fw": "300",
+        "lh": 1.2,
+        "cl2": "#000000",
+        "tfs": 24,
+        "tfsm": 18,
+        "tff": "ft2",
+        "tfw": "400",
+        "tlh": 1.2,
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 7,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633949239c80da6d6": {
+      "type": "collection-tab",
+      "blocks": {
+        "15583504150e944ce3-1": {
+          "type": "cltabs",
+          "settings": {
+            "title": "NEW ARRIVALS",
+            "collection": "furniture"
+          }
+        },
+        "15583504150e944ce3-0": {
+          "type": "cltabs",
+          "settings": {
+            "title": "BEST SELLER",
+            "collection": "furniture"
+          }
+        },
+        "15583504150e944ce3-2": {
+          "type": "cltabs",
+          "settings": {
+            "title": "TRENDING",
+            "collection": "modern-home-design"
+          }
+        },
+        "1562238566702": {
+          "type": "cltabs",
+          "settings": {
+            "title": "SALE",
+            "collection": "furniture"
+          }
+        }
+      },
+      "block_order": [
+        "15583504150e944ce3-1",
+        "15583504150e944ce3-0",
+        "15583504150e944ce3-2",
+        "1562238566702"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style4",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": false,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "tab-style": "2",
+        "fs": 14,
+        "ff": "ft1",
+        "fw": "500",
+        "cl": "#797979",
+        "bg": "#ffffff",
+        "bd": "rgba(0,0,0,0)",
+        "bdr": 6,
+        "cla": "#000000",
+        "bga": "#ffffff",
+        "bda": "rgba(0,0,0,0)",
+        "fsm": 14,
+        "clm": "#111111",
+        "bgm": "#eeeeee",
+        "clma": "#ffffff",
+        "bgma": "#111111"
+      }
+    },
+    "1633949250c51d2d48": {
+      "type": "grid-banners",
+      "blocks": {
+        "1562239143165": {
+          "type": "style6",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/1_5b7eeef7-c2e7-4f01-94ba-7a3016633def.jpg",
+            "text1": "The New Look",
+            "text1-large": "Hanging <br>Lights",
+            "bnr1align": "f-aic f-jcs",
+            "link1": "shopify:\/\/collections\/furniture",
+            "image2": "shopify:\/\/shop_images\/decorative-vase.jpg",
+            "text2": "Creative Design",
+            "text2-large": "Decorative<br> Vase",
+            "bnr2align": "f-aic f-jcs",
+            "link2": "shopify:\/\/collections\/modern-home-design",
+            "image3": "shopify:\/\/shop_images\/decorative-clock.jpg",
+            "text3": "Product Essential",
+            "text3-large": "Decorative <br>Wall Clock",
+            "bnr3align": "f-aic f-jcs",
+            "link3": "shopify:\/\/collections\/furniture"
+          }
+        }
+      },
+      "block_order": [
+        "1562239143165"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "fullwidth": false,
+        "hide_mobile": false,
+        "cl": "#000000",
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "cl2": "#000000",
+        "tfs": 19,
+        "tfsm": 18,
+        "tff": "ft3",
+        "tfw": "500",
+        "tlh": 1.2,
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0,
+        "bdr": 7,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633949268f8d1f6ed": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1633949207127d245b",
+    "163394840036d12a2f",
+    "1633949239c80da6d6",
+    "1633949250c51d2d48",
+    "1633949268f8d1f6ed"
+  ]
+}

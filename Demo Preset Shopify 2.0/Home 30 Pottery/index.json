@@ -1,0 +1,424 @@
+{
+  "sections": {
+    "1633951152683ca8c1": {
+      "type": "collections-banners",
+      "blocks": {
+        "1623226083a0ddab58-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/1_7742cb1a-4a4f-4753-9c42-00437f1c05ad.jpg",
+            "collection_name": "STYLISH AND HANDMADE\n<br>",
+            "collection_name2": "New collection 2021",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "50"
+          }
+        },
+        "1623226083a0ddab58-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/2_fb5e91e9-b985-45f0-8aef-97fa95430036.jpg",
+            "collection_name": "AUTHENTIC AND ELEGANT DESIGN",
+            "collection_name2": "High Standard Design Quality",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "1623226083a0ddab58-1",
+        "1623226083a0ddab58-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "hide_mobile": false,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 0,
+        "grid-spacing-col": 2,
+        "box-width": 60,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "disable_zoom": true,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633951182de47a672": {
+      "type": "collections-banners",
+      "blocks": {
+        "16232322253313cac0-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/cl1.jpg",
+            "collection_name": "KITCHENWARE",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "50"
+          }
+        },
+        "16232322253313cac0-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/cl2_de0de3ed-a88f-47ae-bebe-acac264f2b57.jpg",
+            "collection_name": "POTS",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "25"
+          }
+        },
+        "07f2edfe-9490-47be-a960-205606762269": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/decor.jpg",
+            "collection_name": "Decor",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "25"
+          }
+        },
+        "c13ac6e9-f149-4bd9-999b-f180348b22c7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pottery",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/cl3.jpg",
+            "collection_name": "PLATS",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "Shop Now",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "16232322253313cac0-0",
+        "16232322253313cac0-1",
+        "07f2edfe-9490-47be-a960-205606762269",
+        "c13ac6e9-f149-4bd9-999b-f180348b22c7"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "hide_mobile": false,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 0,
+        "grid-spacing-col": 4,
+        "box-width": 50,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "disable_zoom": false,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16339512084c2fd9f9": {
+      "type": "photo-gallery",
+      "blocks": {
+        "01ea749d-b1a0-4ccd-a8ff-e8bede85979b": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal5.jpg",
+            "title": "<b>HANDEL WITH CARE<\/b>",
+            "title2": "",
+            "url": "#",
+            "width": "wd33-md"
+          }
+        },
+        "02495fa8-9172-4a5d-9e4c-e8c2ab8a09e0": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_036616e2-183b-4416-9deb-2ed59ef19645.jpg",
+            "title": "Every pot that is crafted <br> required hands to be spoilt",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "41a62f59-c394-40b0-87dd-10f1780e506f": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_4c6c633a-f4f8-47ec-b76b-fdadd25b4de6.jpg",
+            "title": "<b>HANDMADE TO LOVE<\/b>",
+            "title2": "Feel it, Feel the Uniqueness",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "aa125a39-4f77-48d3-b0ec-912680af3e35": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dish.jpg",
+            "title": "",
+            "title2": "<b>VIEW COLLECTION <\/b>",
+            "url": "shopify:\/\/collections\/pottery",
+            "width": "wd33-md"
+          }
+        },
+        "ca144a9a-3f49-44a2-97cd-7a4d33bfdb1a": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal6.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "889643ad-6d8b-4eba-bd45-af62b2025e1a": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal7.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "3abae2e5-8fec-40de-9277-00cdd14fd951": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bottle.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "a506e867-9193-4deb-b2e6-b52343f8495c": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal3.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "d44fe186-56eb-4403-9439-6ea30bc15d1e": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal8.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "1e81ee82-0dec-4e29-862d-94f0b98f662d": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal9_a5bd96e6-a825-4847-a933-ca462c786fd8.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        },
+        "47591780-9e1c-4818-9645-68d72a8763e2": {
+          "type": "photo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gal10_97466ca6-17e1-459a-b367-805f3bb00d84.jpg",
+            "title": "",
+            "title2": "",
+            "url": "",
+            "width": "wd33-md"
+          }
+        }
+      },
+      "block_order": [
+        "01ea749d-b1a0-4ccd-a8ff-e8bede85979b",
+        "02495fa8-9172-4a5d-9e4c-e8c2ab8a09e0",
+        "41a62f59-c394-40b0-87dd-10f1780e506f",
+        "aa125a39-4f77-48d3-b0ec-912680af3e35",
+        "ca144a9a-3f49-44a2-97cd-7a4d33bfdb1a",
+        "889643ad-6d8b-4eba-bd45-af62b2025e1a",
+        "3abae2e5-8fec-40de-9277-00cdd14fd951",
+        "a506e867-9193-4deb-b2e6-b52343f8495c",
+        "d44fe186-56eb-4403-9439-6ea30bc15d1e",
+        "1e81ee82-0dec-4e29-862d-94f0b98f662d",
+        "47591780-9e1c-4818-9645-68d72a8763e2"
+      ],
+      "settings": {
+        "title": "PORTFOLIO",
+        "subtitle": "See our gallery of beautiful, custom pottery.",
+        "top-offeset": "default",
+        "fullwidth": false,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 0,
+        "grid-spacing-col": 3,
+        "tcl": "#000000",
+        "tfs": 16,
+        "tfsm": 15,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#000000",
+        "fs": 15,
+        "fsm": 13,
+        "fw": "400",
+        "lh": 1.2,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "zoom_bg": "#ffffff",
+        "zoom_text": "#111111"
+      }
+    },
+    "1633950395f03df8ce": {
+      "type": "custom-content",
+      "blocks": {
+        "16232375986de235b1-0": {
+          "type": "text",
+          "settings": {
+            "title": "POTTERY CLASS",
+            "font-size": "small",
+            "text": "<p>Would you like to learn to make pottery?<br\/>Our classes will help you quickly master the basics.<\/p><p><br\/><\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd100",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        },
+        "d997e727-5ab9-4154-bc0e-83ede0376d47": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11.jpg",
+            "imgurl": "",
+            "width": "wd33-md",
+            "alignment": "center"
+          }
+        },
+        "42ea7923-7907-4f27-9f25-37e3eb83de32": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12.jpg",
+            "imgurl": "",
+            "width": "wd33-md",
+            "alignment": "center"
+          }
+        },
+        "e3a8e5b1-adf6-40c9-a45d-1b0aee0f25f9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/13.jpg",
+            "imgurl": "",
+            "width": "wd33-md",
+            "alignment": "center"
+          }
+        },
+        "9734f914-fb2d-42f5-b5e4-98c93db4cace": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "font-size": "small",
+            "text": "",
+            "btntxt": "Learn More",
+            "btnurl": "shopify:\/\/pages\/about",
+            "btn-style": "btn",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "16232375986de235b1-0",
+        "d997e727-5ab9-4154-bc0e-83ede0376d47",
+        "42ea7923-7907-4f27-9f25-37e3eb83de32",
+        "e3a8e5b1-adf6-40c9-a45d-1b0aee0f25f9",
+        "9734f914-fb2d-42f5-b5e4-98c93db4cace"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163395126625b8c376": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "1633951152683ca8c1",
+    "1633951182de47a672",
+    "16339512084c2fd9f9",
+    "1633950395f03df8ce",
+    "163395126625b8c376"
+  ]
+}

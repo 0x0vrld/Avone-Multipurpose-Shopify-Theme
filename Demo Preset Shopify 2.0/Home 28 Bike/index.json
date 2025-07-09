@@ -1,0 +1,533 @@
+{
+  "sections": {
+    "16339484665d6e9f59": {
+      "type": "video",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "hide_mobile": false,
+        "bg_rad": 0,
+        "video_url": "",
+        "mp4video": "shopify:\/\/files\/videos\/bike.mp4",
+        "title": "<b>GET OUT THERE<br>\nFIND YOUR RACK TODAY.<\/b>",
+        "color_ttl": "#ffffff",
+        "tfs": 50,
+        "tfsm": 20,
+        "bfw": "700",
+        "blh": 1.2,
+        "btntxt": "SHOP NOW",
+        "btnurl": "shopify:\/\/collections\/bikes",
+        "hide_btn": true,
+        "btn-style": "btn",
+        "btn-size": "btn-lg",
+        "hide_text": false,
+        "text_align": "f-aie-md f-jcs-md",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16339484789f598b08": {
+      "type": "richtext",
+      "settings": {
+        "top-offeset": "default",
+        "fullwidth": true,
+        "section_cov": false,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "max-width": 680,
+        "img_rad": 0,
+        "title": "<b>Welcome to Avone Bike Shop<\/b>",
+        "tcl": "#000000",
+        "tfs": 25,
+        "tfsm": 20,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "richtxt": "<p>We are Canada's largest bike shop, serving cyclists in canada since 1980. Whether you prefer to shop on our website or to come visit us, we’re here to help you with all of your cycling needs.Our sales and mechanical staff have a reputation for quality, professionalism and expertise. <\/p>",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 13,
+        "lh": 1.6,
+        "btntxt": "",
+        "btnurl": "",
+        "btn-style": "btn",
+        "btntxt1": "",
+        "btnurl1": "",
+        "btn-style2": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "txt_align": "tc"
+      }
+    },
+    "16339485018bc4292c": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "9db0ac39-e1a2-4a45-b103-0ba7282b9363": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bike-2.jpg",
+            "title": "BIKES",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>From road bikes to hybrids to mountain bikes, we'll get you on the right bike. <br\/><\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/bikes",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "4b230aa5-0739-4f5a-866d-0bb9781decb0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/as.jpg",
+            "title": "APPAREL",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Find the latest styles in road, city and mountain bike apparel<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP APPAREL",
+            "btnurl": "shopify:\/\/collections\/bikes",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "6bc5cf29-6922-4d7c-8564-21948df32bd7": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/apparel.jpg",
+            "title": "ACCESSORIES",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>View all the cycling essentials to help enhance your riding<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/bikes",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "496e38ce-87d2-4a4a-941c-0828a89cb8d2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/component.jpg",
+            "title": "COMPONENTS",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Upgrade your bike with our large selection of bicycle components from the best brands.<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/bikes",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "9db0ac39-e1a2-4a45-b103-0ba7282b9363",
+        "4b230aa5-0739-4f5a-866d-0bb9781decb0",
+        "6bc5cf29-6922-4d7c-8564-21948df32bd7",
+        "496e38ce-87d2-4a4a-941c-0828a89cb8d2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 4,
+        "prbox_style": "style1",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "163394850521375d64": {
+      "type": "collection-list",
+      "blocks": {
+        "1609062054a8717c8e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col11.jpg",
+            "collection_name": "<b>ROAD BIKES<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1609062054a8717c8e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col2.jpg",
+            "collection_name": "<b>VINTAGE AND CRUISER<b><\/b><\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1609062054a8717c8e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col3.jpg",
+            "collection_name": "<b>KIDS BIKES<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1609062054a8717c8e-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col1_1d1a5f28-8a25-462e-ade8-3873d4ec5266.jpg",
+            "collection_name": "<b>FAT BIKES<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "14c5995d-5ab5-4544-bc6d-00fdc3568fa1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col4.jpg",
+            "collection_name": "<b>ELECTRIC BIKES<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "d89660e6-f572-42e0-aa12-9dde058afa79": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/col6.jpg",
+            "collection_name": "<b>MOUNTAIN BIKES <\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "e7b3495a-36a4-463b-9c01-06cd2bbb74e7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/hybrid.jpg",
+            "collection_name": "<b>HYBRID AND CITY BIKES<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "279364a4-a7a8-4543-bf35-8ce8cf70ce88": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bikes",
+            "collection_image": "shopify:\/\/shop_images\/forher.jpg",
+            "collection_name": "<b>BIKES FOR HER<\/b>",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1609062054a8717c8e-0",
+        "1609062054a8717c8e-1",
+        "1609062054a8717c8e-2",
+        "1609062054a8717c8e-3",
+        "14c5995d-5ab5-4544-bc6d-00fdc3568fa1",
+        "d89660e6-f572-42e0-aa12-9dde058afa79",
+        "e7b3495a-36a4-463b-9c01-06cd2bbb74e7",
+        "279364a4-a7a8-4543-bf35-8ce8cf70ce88"
+      ],
+      "settings": {
+        "title": "Browse All Bikes at Avone",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "style3",
+        "enable_carousel": false,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 14,
+        "tfsm": 14,
+        "tff": "ft1",
+        "tfw": "400",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633947315b9aea8c8": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Bikes New Arrivals at Avone",
+        "subtitle": "",
+        "collection": "bikes",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": true,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "SHOP ALL",
+        "btn-style": "btn"
+      }
+    },
+    "16339485537b3db262": {
+      "type": "quotes",
+      "blocks": {
+        "1609072672ff1477aa-0": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men.jpg",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>My Avone Bike has given me a new way to enjoy being outside again! The bike is super easy\/intuitive to use and seriously works like a dream.<\/p>",
+            "author": "Caron",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "1609072672ff1477aa-1": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men2.jpg",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>Easy and fun, and also much better than I had ever anticipated! I ride my bike everywhere!<\/p>",
+            "author": "Paskal",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "1609072672ff1477aa-2": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/andrew.jpg",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>I can&#x27;t begin to share how much joy this bike brings me. I&#x27;ve already traveled over 20 miles in a few days and it&#x27;s so smooth, easy to use, safe and incredibly fun!<\/p>",
+            "author": "Andrea",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "1609072672ff1477aa-0",
+        "1609072672ff1477aa-1",
+        "1609072672ff1477aa-2"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "top-offeset": "default",
+        "section_width": false,
+        "bg": "#ffffff",
+        "bgg": "",
+        "quoteStyle": "style2",
+        "stcl": "#444444",
+        "qcl": "#444444",
+        "tfs": 16,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "qfs": 15,
+        "qfsm": 13,
+        "rcl": "#ebb868",
+        "rfs": 16,
+        "isbox": true,
+        "qbg": "#f5f5f5",
+        "bg_rad": 0,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arwCl": "#000000",
+        "arwBg": "#ffffff",
+        "dots": false,
+        "dotCl": "#000000"
+      }
+    },
+    "163394856200c149ec": {
+      "type": "store-features",
+      "blocks": {
+        "1609071948a8e4dee6-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/service.jpg",
+            "icons": "ad-truck-l",
+            "title": "TWO FREE SERVICES",
+            "text": "<p>Within the first 12 months of purchase of a new Reid bike.<\/p>",
+            "texturl": ""
+          }
+        },
+        "1609071948a8e4dee6-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/truck_4c295065-efda-4447-9bf1-8b3370c20906.jpg",
+            "icons": "ad-truck-l",
+            "title": "FREE DELIVERY",
+            "text": "<p>We offer free shipping for all our bikes within 3 to 5 days<\/p>",
+            "texturl": ""
+          }
+        },
+        "1609071948a8e4dee6-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/warranty.jpg",
+            "icons": "ad-truck-l",
+            "title": "LIFETIME WARRANTY",
+            "text": "<p>Lifetime warranty on Frame &amp; Forks and 2 years on Parts.<\/p>",
+            "texturl": ""
+          }
+        },
+        "471d6007-80d4-4cb3-bad2-88b99d4391cf": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/support.jpg",
+            "icons": "ad-truck-l",
+            "title": "CUSTOMER SUPPORT",
+            "text": "<p>Our experts are ready to answer any bike related questions <\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1609071948a8e4dee6-0",
+        "1609071948a8e4dee6-1",
+        "1609071948a8e4dee6-2",
+        "471d6007-80d4-4cb3-bad2-88b99d4391cf"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#ffffff",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "image",
+        "icons_clr": "#a9a9a9",
+        "isz": 40,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "#eeeeee"
+      }
+    },
+    "1633948577195e1a0e": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "1633948589be0d3833": {
+      "type": "text-line",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "bg": "#f76969",
+        "bgg": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
+        "br": 0,
+        "infolines": "Free Lifetime Service on Every New Bike We Sell   <a href=\"#\"><u>Learn More <\/u><\/a>",
+        "cl": "#ffffff",
+        "fs": 18,
+        "fsm": 18,
+        "ff": "ft1",
+        "fw": "400",
+        "lh": 1.3,
+        "text-padding": 20
+      }
+    }
+  },
+  "order": [
+    "16339484665d6e9f59",
+    "16339484789f598b08",
+    "16339485018bc4292c",
+    "163394850521375d64",
+    "1633947315b9aea8c8",
+    "16339485537b3db262",
+    "163394856200c149ec",
+    "1633948577195e1a0e",
+    "1633948589be0d3833"
+  ]
+}

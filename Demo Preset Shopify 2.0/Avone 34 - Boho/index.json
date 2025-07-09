@@ -1,0 +1,960 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fUrB8a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/demo34slide4.jpg",
+            "ialign": "center_center",
+            "hd1": "STYLE IS ETERNAL",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "Unleash Your<br> Inner Fashionista",
+            "tcl": "#ffffff",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "bdr-btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1400,
+            "text-left": true,
+            "txtpos": "f-jce-md f-aie-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        },
+        "1561726660568-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DM-SLIDE2.jpg",
+            "ialign": "center_center",
+            "hd1": "TIMELESS STYLE",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "New Arrivals",
+            "tcl": "#ffffff",
+            "hd3": "Delicate fabrics and a neutral colour <br>palette are the details that give these pieces an edge.",
+            "cl": "#ffffff",
+            "hideh3": false,
+            "btn": "Shop Now",
+            "link": "shopify:\/\/collections\/beachwear",
+            "btn1window": false,
+            "btn-style": "btn3",
+            "display_btn": false,
+            "btn2": "Shop Now",
+            "link2": "shopify:\/\/collections",
+            "btn2window": false,
+            "btn-style1": "btn5",
+            "contwd": 1300,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-jcc f-aic"
+          }
+        }
+      },
+      "block_order": [
+        "image_fUrB8a",
+        "1561726660568-0"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 800,
+        "htt": 550,
+        "htm": 400,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 70,
+        "bfsm": 28,
+        "bff": "ft2",
+        "bfw": "500",
+        "blh": 1,
+        "bmb": 20,
+        "bmbm": 10,
+        "dfs": 18,
+        "dfsm": 15,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 35,
+        "dmbm": 15,
+        "btn-size": "btn-lg",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": true,
+        "anim": "st2",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#000000",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "dots": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "collection_list_LUGgDt": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_w7jAe7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/DEMO34CL21.jpg",
+            "collection_name": "TWO PIECE SET",
+            "collection_btn": "GET 20% OFF",
+            "url": ""
+          }
+        },
+        "featured_collection_JWLQhX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/DEMO34CL3.jpg",
+            "collection_name": "JEANS YOU'LL LOVE",
+            "collection_btn": "Shop Denim",
+            "url": ""
+          }
+        },
+        "featured_collection_B7zTpF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beach-beauty",
+            "collection_image": "shopify:\/\/shop_images\/DEMO34CL5.jpg",
+            "collection_name": "WALK IN STYLE",
+            "collection_btn": "SHOP NEW",
+            "url": ""
+          }
+        },
+        "featured_collection_P3mFcR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anklets-jewelry",
+            "collection_image": "shopify:\/\/shop_images\/DEMO31CL1.jpg",
+            "collection_name": "THE FINISHING TOUCH",
+            "collection_btn": "NEW JEWELRY",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_w7jAe7",
+        "featured_collection_JWLQhX",
+        "featured_collection_B7zTpF",
+        "featured_collection_P3mFcR"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 4,
+        "tablet-grid": 2,
+        "mobile-grid": 2,
+        "style": "st4",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "tl",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 25,
+        "tfsm": 14,
+        "tff": "ft1",
+        "tfw": "500",
+        "tlh": 1.2,
+        "cl": "#ffffff",
+        "bg": "#111",
+        "opt": 0,
+        "bdr": 0,
+        "show_buttons": true,
+        "btn-style": "bdr-btn1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "products_rows_zbWiXW": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Recommended For You",
+        "subtitle": "We picked some items just for you",
+        "collection": "new-arrivals",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style6",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 8,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "show_view_all": "shop all",
+        "btn-style": "bdr-btn2",
+        "btn-size-desk": "btn-lg",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "section_space_yGTeNW": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "custom_content_7cHqLN": {
+      "type": "custom-content",
+      "blocks": {
+        "text_3icYkq": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DM342.jpg",
+            "title": "Take Your Style to the Next Level!",
+            "fs": 25,
+            "fsm": 20,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Discover Your Style Inspiration Here!<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/women",
+            "btn-style": "bdr-btn2",
+            "width": "wd50-md",
+            "alignment": "f-asc",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "text_KwyCye": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DM323.jpg",
+            "title": "Fashion Forward Finds",
+            "fs": 25,
+            "fsm": 20,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Explore the Newest Trends for Both Men and Women!<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/new-arrivals",
+            "btn-style": "bdr-btn2",
+            "width": "wd50-md",
+            "alignment": "f-asc",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_3icYkq",
+        "text_KwyCye"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "hero_Gbq9VV": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 700,
+        "tb_height": 350,
+        "mb_height": 250,
+        "parallax_scroll": true,
+        "image": "shopify:\/\/shop_images\/demo34-hero1.jpg",
+        "alignment": "center",
+        "pretext": "",
+        "pcl": "#ffffff",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "600",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "NEW FOR <br>SPRING",
+        "tcl": "#ffffff",
+        "tfs": 100,
+        "tfsm": 50,
+        "tff": "ft2",
+        "tfw": "500",
+        "tlh": 1,
+        "tmb": 25,
+        "tmbm": 5,
+        "text": "",
+        "cl": "#ffffff",
+        "fs": 14,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/beachwear",
+        "link_image": false,
+        "btn-style": "btn3",
+        "btn-size-desk": "btn-lg",
+        "btn-size-mob": "mob-btn-md",
+        "isbox": false,
+        "bg": "#ffffff",
+        "opt": 0,
+        "bdr": 6,
+        "ibdr": 6,
+        "bmw": 450,
+        "textalign": "tc",
+        "bxalign": "f-jcc-md f-aic-md",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2024",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "scrolling_text_ygEp8p": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_block_9B36ie": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-badge-percent fs16",
+            "title": "BIG OFFER - CYBER WEEK SALE. GET 50% OFF NOW.",
+            "url": "shopify:\/\/collections\/women"
+          }
+        },
+        "text_block_nHtA86": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-check-badge-r fs16",
+            "title": "MONEY BACK GUARANTEE",
+            "url": ""
+          }
+        },
+        "text_block_ExjbFT": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-truck fs18",
+            "title": "FREE DELIVERY",
+            "url": ""
+          }
+        },
+        "text_block_krrd8g": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-headphones fs16",
+            "title": "24\/7 SUPPORT",
+            "url": ""
+          }
+        },
+        "text_block_yDWPEx": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-badge-dollar fs16",
+            "title": "LOWEST PRICE OF THE YEAR - GET 50% OFF NOW.",
+            "url": ""
+          }
+        },
+        "text_block_H8BwLr": {
+          "type": "text_block",
+          "settings": {
+            "icn": "",
+            "title": "BIG OFFER - CYBER WEEK SALE. GET 50% OFF NOW.",
+            "url": ""
+          }
+        },
+        "text_block_RdGijW": {
+          "type": "text_block",
+          "settings": {
+            "icn": "at-check-badge-r fs16",
+            "title": "MONEY BACK GUARANTEE",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_9B36ie",
+        "text_block_nHtA86",
+        "text_block_ExjbFT",
+        "text_block_krrd8g",
+        "text_block_yDWPEx",
+        "text_block_H8BwLr",
+        "text_block_RdGijW"
+      ],
+      "settings": {
+        "cl": "#f9f9f9",
+        "bg": "#000000",
+        "bgg": "",
+        "fs": 13,
+        "fsm": 12,
+        "ff": "ft1",
+        "tfw": "400",
+        "padding": 20,
+        "speed": 24,
+        "speedm": 25
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand3.jpg",
+            "link": "https:\/\/1.envato.market\/x5PKR",
+            "opentab": true
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand2.jpg",
+            "link": "https:\/\/1.envato.market\/Der4n",
+            "opentab": true
+          }
+        },
+        "logo_image_jjDrdi": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand4.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand5.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand6.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "logo_image_twhbzD": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand7.jpg",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-1",
+        "logo_image_jjDrdi",
+        "1561785365595-2",
+        "1561785365595-5",
+        "1561785365595-3",
+        "logo_image_twhbzD"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 7,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "custom_content_DfKJp3": {
+      "type": "custom-content",
+      "blocks": {
+        "text_XHfPwn": {
+          "type": "text",
+          "settings": {
+            "title": "EXTRA 50% OFF CLEARANCE.",
+            "fs": 35,
+            "fsm": 30,
+            "fw": "500",
+            "lh": 1.2,
+            "text": "<p>Use code: SPRINGSR50.<br\/><br\/>Phasellus lectus nunc, aliquet nec tincidunt nec, egestas in velit. Etiam consectetur malesuada leo. Suspendisse mi risus, rutrum a aliquam bibendum, tempus vitae<br\/><\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/beachwear",
+            "btn-style": "bdr-btn1",
+            "width": "wd33-md",
+            "alignment": "f-asc",
+            "align_text": "tc",
+            "eblock_bg": true,
+            "block_bg": "#facece",
+            "bg_rad": 0,
+            "block_txt": "#ffffff"
+          }
+        },
+        "collection_P7whRL": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/dm35-1.jpg",
+            "collection": "",
+            "collection_name": "NEXT LEVEL LOOK",
+            "color_ttl": "#000000",
+            "color_bg": "#ffffff",
+            "tfs": 13,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        },
+        "collection_mDrwGD": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/dm32-2.jpg",
+            "collection": "",
+            "collection_name": "ELEVATED LAYERS",
+            "color_ttl": "#000000",
+            "color_bg": "#ffffff",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": [
+        "text_XHfPwn",
+        "collection_P7whRL",
+        "collection_mDrwGD"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "section_space_Yw6mVV": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 10,
+        "color_bg": "#ffffff"
+      }
+    },
+    "section_space_fiUbJb": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "instagram_shop_T68wUn": {
+      "type": "instagram-shop",
+      "blocks": {
+        "img_P8z7wT": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb3.jpg",
+            "title": "Trending 💕",
+            "cpt": "<p>Update your closet with some pretty new must haves<\/p>",
+            "url": "https:\/\/www.instagram.com\/",
+            "product1": "martha-knit-top-new",
+            "p1_top": 30,
+            "p1_left": 27,
+            "product2": "high-waist-jeans",
+            "p2_top": 84,
+            "p2_left": 46,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_ETwWkL": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb9.jpg",
+            "title": "Surprise ✨",
+            "cpt": "<p>Our new basics collection is here and It’s 25% OFF TODAY ONLY!!<\/p>",
+            "url": "",
+            "product1": "toledo-mules-shoes",
+            "p1_top": 60,
+            "p1_left": 18,
+            "product2": "high-waist-jeans",
+            "p2_top": 26,
+            "p2_left": 27,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_g4Jei8": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb1.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_A4tLKQ": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb4.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_ayqwjC": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb5.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_bDhdQt": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb6.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_y7YHTm": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb7.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        },
+        "img_7cnbFP": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lb10.jpg",
+            "title": "",
+            "cpt": "",
+            "url": "",
+            "product1": "",
+            "p1_top": 1,
+            "p1_left": 1,
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1
+          }
+        }
+      },
+      "block_order": [
+        "img_P8z7wT",
+        "img_ETwWkL",
+        "img_g4Jei8",
+        "img_A4tLKQ",
+        "img_ayqwjC",
+        "img_bDhdQt",
+        "img_y7YHTm",
+        "img_7cnbFP"
+      ],
+      "settings": {
+        "title": "SHOP OUR INSTAGRAM",
+        "subtitle": "@ADORNTHEMES",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "bg": "#f9f9f9",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 5,
+        "grid-spacing-mbl": 5,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "enable_carousel": false,
+        "autoplay": false,
+        "speed": 5,
+        "brd": 5,
+        "isbtn": true,
+        "btn": "View on Instagram",
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "quotes_H9KQk6": {
+      "type": "quotes",
+      "blocks": {
+        "quote_YqJBcC": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pr51.jpg",
+            "title": "Feature Availability",
+            "quote": "<p>This is a wonderful theme. Very easy to use. Very easy to customize. The new version has lots of great additions and is still easy to work with. Also, customer service excellent<\/p>",
+            "author": "Simon Williams <br><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_PPVUij": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beach-dress.jpg",
+            "title": "Theme Flexibility",
+            "quote": "<p>This is a wonderful theme. Very easy to use. Very easy to customize. The new version has lots of great additions and is still easy to work with. Also, customer service excellent.<\/p>",
+            "author": "Rossy Ogawa<br><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_yNheTR": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clb.jpg",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>This is a wonderful theme. Very easy to use. Very easy to customize. The new version has lots of great additions and is still easy to work with. Also, customer service excellent<\/p>",
+            "author": "Author's name<br><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_UedNig": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DEMO31CL1.jpg",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>This is a wonderful theme. Very easy to use. Very easy to customize. The new version has lots of great additions and is still easy to work with. Also, customer service excellent<\/p>",
+            "author": "Author's name",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_YqJBcC",
+        "quote_PPVUij",
+        "quote_yNheTR",
+        "quote_UedNig"
+      ],
+      "settings": {
+        "title": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "bg": "#111111",
+        "bgg": "radial-gradient(rgba(254, 234, 201, 1), rgba(254, 197, 203, 1) 100%)",
+        "quoteStyle": "style2",
+        "stcl": "#000000",
+        "qcl": "#333333",
+        "tfs": 18,
+        "tfsm": 20,
+        "tff": "ft1",
+        "tfw": "500",
+        "qfs": 15,
+        "qfsm": 14,
+        "rcl": "#111111",
+        "rfs": 14,
+        "isbox": true,
+        "qbg": "#ffffff",
+        "bg_rad": 10,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arwCl": "#000000",
+        "arwBg": "#ffffff",
+        "dots": false,
+        "dotCl": "#000000"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection_list_LUGgDt",
+    "products_rows_zbWiXW",
+    "section_space_yGTeNW",
+    "custom_content_7cHqLN",
+    "hero_Gbq9VV",
+    "scrolling_text_ygEp8p",
+    "1633781759ce68e676",
+    "custom_content_DfKJp3",
+    "section_space_Yw6mVV",
+    "section_space_fiUbJb",
+    "instagram_shop_T68wUn",
+    "quotes_H9KQk6"
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "sections": {
+    "1633950244c2f750a2": {
+      "type": "slideshow",
+      "blocks": {
+        "162289270824ed9ce3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_96d4e635-538a-4bb8-ab88-2e1a76adc22b.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "Buy Wine Online <br>  Delivered Right to You",
+            "tcl": "#000000",
+            "hd3": "Select From Hundreds Of The Most Popular Wines <br> and Get It Delivered Within Days!",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/wines",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        }
+      },
+      "block_order": [
+        "162289270824ed9ce3-0"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 800,
+        "htt": 600,
+        "htm": 360,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 45,
+        "bfsm": 25,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1.1,
+        "bmb": 20,
+        "bmbm": 5,
+        "dfs": 15,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.4,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-lg",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": false,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163395041648fbcd2e": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "16339484789f598b08": {
+      "type": "richtext",
+      "settings": {
+        "top-offeset": "default",
+        "fullwidth": true,
+        "section_cov": false,
+        "sec_bg_clr": "#ffffff",
+        "bgg": "",
+        "max-width": 750,
+        "img_rad": 0,
+        "title": "",
+        "tcl": "#000000",
+        "tfs": 26,
+        "tfsm": 20,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "richtxt": "<p>Browse our newest selections of wines on Avone.com We've got the perfect bottle for every palate and occasion.<br\/><br\/><\/p>",
+        "cl": "#000000",
+        "fs": 24,
+        "fsm": 17,
+        "lh": 1.6,
+        "btntxt": "",
+        "btnurl": "",
+        "btn-style": "btn",
+        "btntxt1": "",
+        "btnurl1": "",
+        "btn-style2": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "txt_align": "tc"
+      }
+    },
+    "16339485018bc4292c": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "1622896789c7dc63e7-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_6ba1ae78-ea54-44a3-8254-b01ecf5109d4.jpg",
+            "title": "Top Spring Picks",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Choose from our Spring selections <br\/>to find your favorite sip for the season!<\/p>",
+            "dfs": 13,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "9faab727-99a0-4135-96ad-3ad3e7127bdd": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_40db810c-5913-49cc-9c00-4692f05111d1.jpg",
+            "title": "Best Selling Red Wines",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Browse a selection of our best selling red wines. <br\/>Get wine delivered directly to your door. <br\/><br\/><\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "de1c47cd-ced5-4cdd-b099-b698f84284f9": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_f7ff96d7-4ef8-49a0-ba5e-d9f2ba35f987.jpg",
+            "title": "Shop High-End Wines",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>These are all high-end, sought after wines <br\/>that are essentials for any serious collection<\/p>",
+            "dfs": 13,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Shop Now",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "68ad0778-ded1-4229-ba30-3b5628195aec": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/wine.jpg",
+            "collection": "wines",
+            "collection_name": "Discover Italian Wines",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd50-md"
+          }
+        },
+        "140db4c6-3b5c-43c2-a421-e37787e5aed3": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4video": "shopify:\/\/files\/videos\/wine-new.mp4",
+            "enable_cntrl": false,
+            "is_autoplay": true,
+            "title": "<h2>How wines are made at Avone?<\/h2>",
+            "color_ttl": "#ffffff",
+            "tfs": 20,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 12,
+            "text_align": "f-jcc-md f-aie-md tc",
+            "bg_rad": 0,
+            "width": "wd50-md"
+          }
+        },
+        "9e4ead50-3079-4eb8-9815-1b2657b1ec79": {
+          "type": "text",
+          "settings": {
+            "title": "Last Call Wines",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Shop our selection of End of Vintage wines, featuring our global portfolio. Snap up these last picks before they are gone for good!<\/p>",
+            "dfs": 13,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Shop Now",
+            "btnurl": "shopify:\/\/collections\/wines",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "center",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1622896789c7dc63e7-0",
+        "9faab727-99a0-4135-96ad-3ad3e7127bdd",
+        "de1c47cd-ced5-4cdd-b099-b698f84284f9",
+        "68ad0778-ded1-4229-ba30-3b5628195aec",
+        "140db4c6-3b5c-43c2-a421-e37787e5aed3",
+        "9e4ead50-3079-4eb8-9815-1b2657b1ec79"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#000000",
+        "bgg": "",
+        "grid-spacing": 50,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 2,
+        "prbox_style": "style1",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "1633947315b9aea8c8": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Our Best Selling Wines",
+        "subtitle": "",
+        "collection": "wines",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 6,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "163394856200c149ec": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "FREE SHIPPING & RETURN",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "MONEY GAURNTEE",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "ONLINE SUPPORT",
+            "text": "<p>We support online 24\/7 on day<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2"
+      ],
+      "settings": {
+        "title": "Order Wine Online, Delivery To Your Doorstep",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#111111",
+        "isz": 40,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "1633950395f03df8ce": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "16230651167b038499-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/special_e0944af6-366a-46a8-af06-108016d09d67.jpg",
+            "title": "",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "5f0945d9-1aa6-461e-bf2a-02f8820d6986": {
+          "type": "text",
+          "settings": {
+            "title": "What Makes our Wine Special ?",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "b5d48c29-abd3-481d-a96b-4357d9246f41": {
+          "type": "text",
+          "settings": {
+            "title": "Fermentation",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s<br\/><br\/><\/p>",
+            "dfs": 13,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "d3da66a8-760c-463d-90cb-0e3c4ac4571b": {
+          "type": "text",
+          "settings": {
+            "title": "Harvesting",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s<br\/><br\/><\/p>",
+            "dfs": 13,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "e85a5928-a9ad-40cd-bea1-282c74979d79": {
+          "type": "text",
+          "settings": {
+            "title": "Corkscrews & Openers",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s<br\/><br\/><\/p>",
+            "dfs": 13,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "fef54a10-5853-4c36-b6c1-faac9611f8f6": {
+          "type": "text",
+          "settings": {
+            "title": "Catering Bowls",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s<br\/><br\/><\/p>",
+            "dfs": 13,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "d2a4fbca-b4bb-403c-b07f-21db6ebda542": {
+          "type": "text",
+          "settings": {
+            "title": "Tannin Levels",
+            "fs": 18,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s<br\/><br\/><\/p>",
+            "dfs": 13,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "16230651167b038499-0",
+        "5f0945d9-1aa6-461e-bf2a-02f8820d6986",
+        "b5d48c29-abd3-481d-a96b-4357d9246f41",
+        "d3da66a8-760c-463d-90cb-0e3c4ac4571b",
+        "e85a5928-a9ad-40cd-bea1-282c74979d79",
+        "fef54a10-5853-4c36-b6c1-faac9611f8f6",
+        "d2a4fbca-b4bb-403c-b07f-21db6ebda542"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 2,
+        "prbox_style": "style1",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633950996db8dd15b": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1633950244c2f750a2",
+    "163395041648fbcd2e",
+    "16339484789f598b08",
+    "16339485018bc4292c",
+    "1633947315b9aea8c8",
+    "163394856200c149ec",
+    "1633950395f03df8ce",
+    "1633950996db8dd15b"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "sections": {
+    "collection": {
+      "type": "main-collection",
+      "blocks": {
+        "f0f6fa5f-eb31-4446-a3fa-cc1788515065": {
+          "type": "filter_by",
+          "settings": {
+            "title": "Filter By",
+            "column": "",
+            "clrsz": 20,
+            "clrbdr": 20
+          }
+        },
+        "36cf7116-6a74-4010-8db5-37d2c59163ae": {
+          "type": "products",
+          "settings": {
+            "title": "Popular Products",
+            "side_prod_opt": "list",
+            "sidebar_products": "beach-beauty",
+            "num_of_products": "3",
+            "side_all_products": false,
+            "btn_txt": "View All"
+          }
+        }
+      },
+      "block_order": [
+        "f0f6fa5f-eb31-4446-a3fa-cc1788515065",
+        "36cf7116-6a74-4010-8db5-37d2c59163ae"
+      ],
+      "settings": {
+        "fullwidth": false,
+        "bnr": true,
+        "banner_position": "top",
+        "bht": 200,
+        "bhtt": 100,
+        "bhtm": 100,
+        "clbanner": "shopify:\/\/shop_images\/demo17-slidef_1.jpg",
+        "bbg": "#f5f5f5",
+        "show_collection_name": true,
+        "tcl": "#ffffff",
+        "tfs": 25,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1,
+        "tcase": true,
+        "tmb": 0,
+        "tmbm": 0,
+        "bnr_desc": "",
+        "dcl": "#ffffff",
+        "dfs": 16,
+        "dfsm": 15,
+        "dlh": 1.6,
+        "dmb": 15,
+        "dmbm": 15,
+        "bnr_count": "",
+        "ccl": "#333333",
+        "cbg": "#f5f5f5",
+        "bnr-wd": 1200,
+        "tac": true,
+        "collection-des": "top",
+        "dis_hrmenu": false,
+        "hrmenu_pos": "bbn",
+        "hrmenu": [
+
+        ],
+        "hrmenu_txt": "#ffffff",
+        "hrmenu_bg": "#444444",
+        "hrmenu_font": 12,
+        "hrmenu_case": "ttu",
+        "sort_enable": true,
+        "dis_prod_cnt": true,
+        "dis_grid_icn": true,
+        "prbox_style": "style4",
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 50%",
+        "color_size": "small",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "12",
+        "pagination": "button",
+        "collection_sidebar": true,
+        "sidebar_position": "left"
+      }
+    }
+  },
+  "order": [
+    "collection"
+  ]
+}

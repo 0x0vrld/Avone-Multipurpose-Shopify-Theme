@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "1633946577fac8890d": {
+      "type": "slideshow",
+      "blocks": {
+        "1551272048529-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#fff",
+            "title": "Comfort For <br>Every Occasion",
+            "tcl": "#000000",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "VIEW COLLECTION",
+            "link": "shopify:\/\/collections\/shoes",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1500,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aie f-jcs"
+          }
+        }
+      },
+      "block_order": [
+        "1551272048529-0"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 900,
+        "htt": 560,
+        "htm": 440,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 10,
+        "pmbm": 5,
+        "bfs": 60,
+        "bfsm": 28,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1,
+        "bmb": 35,
+        "bmbm": 25,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "txtanimation": true,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#ffffff",
+        "arrowbg": "#fff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16339472951a96bd5b": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Heels, Pumps and High-Heel Shoes",
+        "subtitle": "The season’s best heels say it loud and clear",
+        "collection": "shoes",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style3",
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "rows": 8,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "show_view_all": "View All Style",
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633947327902ffeca": {
+      "type": "collection-list",
+      "blocks": {
+        "1558343489fef4f1d5-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/boots.jpg",
+            "collection_name": "BOOTS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1558343489fef4f1d5-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/flats.jpg",
+            "collection_name": "FLATS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1558343489fef4f1d5-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/slipers.jpg",
+            "collection_name": "SLIPPERS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1558343489fef4f1d5-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/heels.jpg",
+            "collection_name": "HEELS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1558343773588": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/sandels.jpg",
+            "collection_name": "SANDALS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1561355509166": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/flats.jpg",
+            "collection_name": "SALE",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1558343489fef4f1d5-0",
+        "1558343489fef4f1d5-1",
+        "1558343489fef4f1d5-2",
+        "1558343489fef4f1d5-3",
+        "1558343773588",
+        "1561355509166"
+      ],
+      "settings": {
+        "title": "Explore all categories",
+        "subtitle": "Combine With One of These & Get 20% OFF",
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "st6",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 14,
+        "tfsm": 14,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#000000",
+        "bg": "#ffffff",
+        "opt": 1,
+        "bdr": 4,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163394735600a5c4ef": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "1561362565017": {
+          "type": "product",
+          "settings": {
+            "product": "men-grey-pants",
+            "width": "wd25-md"
+          }
+        },
+        "1561362583479": {
+          "type": "product",
+          "settings": {
+            "product": "top-slip-on-velcro-sneakers",
+            "width": "wd25-md"
+          }
+        },
+        "1561363915824": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/demo3-masonry-block_8b501565-5290-4cac-93a6-0587429c9657.jpg",
+            "collection": "hot-collection",
+            "collection_name": "GET HOLIDAY READY",
+            "color_ttl": "#000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd50-md"
+          }
+        },
+        "1561362602855": {
+          "type": "product",
+          "settings": {
+            "product": "high-waist-jeans",
+            "width": "wd25-md"
+          }
+        },
+        "1561362625647": {
+          "type": "product",
+          "settings": {
+            "product": "casual-lace-up-shoes",
+            "width": "wd25-md"
+          }
+        }
+      },
+      "block_order": [
+        "1561362565017",
+        "1561362583479",
+        "1561363915824",
+        "1561362602855",
+        "1561362625647"
+      ],
+      "settings": {
+        "title": "Everything you need for the ho-ho-holiday season",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "prbox_style": "style2",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "16339473692cfeb097": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#fff"
+      }
+    }
+  },
+  "order": [
+    "1633946577fac8890d",
+    "16339472951a96bd5b",
+    "1633947327902ffeca",
+    "163394735600a5c4ef",
+    "16339473692cfeb097"
+  ]
+}

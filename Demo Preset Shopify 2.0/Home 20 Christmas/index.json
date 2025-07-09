@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1561726660568-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/q.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "<b>CHRISTMAS SALE<\/b>",
+            "tcl": "#d60014",
+            "hd3": "<b>HOLIDAY DISCOUNT UP TO 50% OFF<\/b>",
+            "cl": "#5f8c25",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/christmas",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": false,
+            "txtpos": "f-jcc-md f-aic-md",
+            "txtposm": "f-jcc f-aic"
+          }
+        },
+        "1571998525774": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_115687a2-ef4e-434c-b393-44b584a9744d.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "SAVE UP TO 50%<br> ON ALL ORDER",
+            "tcl": "#ffffff",
+            "hd3": "Christmas Crafts, Ornaments, Toys, Decoration",
+            "cl": "#ffffff",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/accessories",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": false,
+            "txtpos": "f-jcc-md f-aic-md",
+            "txtposm": "f-jcc f-aic"
+          }
+        }
+      },
+      "block_order": [
+        "1561726660568-0",
+        "1571998525774"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "npd": true,
+        "section_width": true,
+        "ht": "2",
+        "htd": 550,
+        "htt": 550,
+        "htm": 360,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 50,
+        "bfsm": 25,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": true,
+        "anim": "st2",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#b41212",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": true,
+        "snow_style": "style2"
+      }
+    },
+    "163378174190f4bb4d": {
+      "type": "collections-banners",
+      "blocks": {
+        "1560507278694-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "collection_image": "shopify:\/\/shop_images\/cb1.jpg",
+            "collection_name": "CHRISTMAS ORNAMENTS",
+            "collection_name2": "Save up to 50% OFF",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1560507334237": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "collection_image": "shopify:\/\/shop_images\/CB2.jpg",
+            "collection_name": "COSTUMES",
+            "collection_name2": "For your pets",
+            "collection_btn": "",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "25"
+          }
+        },
+        "1560507278694-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "collection_image": "shopify:\/\/shop_images\/cb3.jpg",
+            "collection_name": "LIGHTS",
+            "collection_name2": "Make it shine",
+            "collection_btn": "",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "25"
+          }
+        },
+        "1560593691516": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "collection_image": "shopify:\/\/shop_images\/cb4.jpg",
+            "collection_name": "CHRISTMAS GIFTS",
+            "collection_name2": "Up to 60% OFF",
+            "collection_btn": "",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "25"
+          }
+        },
+        "1571990088298": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "collection_image": "shopify:\/\/shop_images\/cb5.jpg",
+            "collection_name": "CHRISTMAS CANDY",
+            "collection_name2": "Flat 30% off",
+            "collection_btn": "",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "1560507278694-0",
+        "1560507334237",
+        "1560507278694-1",
+        "1560593691516",
+        "1571990088298"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": true,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "box-width": 80,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 16,
+        "tfsm": 14,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": true,
+        "snow_style": "style2"
+      }
+    },
+    "1633781728a88de982": {
+      "type": "product-slider",
+      "settings": {
+        "title": "<b>NEW ARRIVALS<\/b>",
+        "subtitle": "Celebrate the season with festive <br>indoor and outdoor Christmas decorating ideas",
+        "collection": "christmas",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style3",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": false,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "163386520992042806": {
+      "type": "banner-with-text",
+      "blocks": {
+        "1572000861610-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner.jpg",
+            "layout": "left",
+            "title": "Christmas Headquarters",
+            "tcl": "#d60014",
+            "text": "<p>Your Holiday Headquarters for toys and games, candy, treats, crafts, Christmas party decorations and supplies. Find the perfect Christmas ornaments, Santa costumes and accessories too!<\/p>",
+            "cl": "#000000",
+            "button_label": "View Collections",
+            "button_link": "shopify:\/\/collections\/christmas",
+            "btncl": "#ffffff",
+            "btnbg": "#d60014",
+            "btnbd": "#d60014",
+            "text_align": "tc",
+            "bg": "#fff7f2"
+          }
+        }
+      },
+      "block_order": [
+        "1572000861610-0"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "bg_rad": 10,
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 14,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 10,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": true,
+        "snow_style": "style2"
+      }
+    },
+    "1633865967d7a302b7": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 40,
+        "mdesk": 15,
+        "color_bg": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "163378174190f4bb4d",
+    "1633781728a88de982",
+    "163386520992042806",
+    "1633865967d7a302b7"
+  ]
+}

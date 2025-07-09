@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1561726660568-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dome1-bnr1.jpg",
+            "imagem": "shopify:\/\/shop_images\/default-mb-bnr1.jpg",
+            "ialign": "center_center",
+            "hd1": "I AM AVONE",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "BEST SELLING <br>SHOPIFY THEME",
+            "tcl": "#000000",
+            "hd3": "A Creative, Flexible, Clean, Easy to use and <br>High Performance shopify theme!",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop Now",
+            "link": "https:\/\/shopify.pxf.io\/qn6kKy",
+            "btn1window": true,
+            "btn-style": "btn",
+            "display_btn": false,
+            "btn2": "Shop Now",
+            "link2": "shopify:\/\/collections",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        },
+        "1561726660568-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dome1-bnr2.jpg",
+            "imagem": "shopify:\/\/shop_images\/default-mb-bnr2.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "<b>Speed up your store<br> to convert more Sales<\/b>",
+            "tcl": "#000000",
+            "hd3": "The Powerful Theme You can Trust",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/hot-collection",
+            "btn1window": false,
+            "btn-style": "btn",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1300,
+            "text-left": false,
+            "txtpos": "f-jce-md f-aic-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        }
+      },
+      "block_order": [
+        "1561726660568-0",
+        "1561726660568-1"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 700,
+        "htt": 550,
+        "htm": 400,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 0,
+        "bfs": 47,
+        "bfsm": 28,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1.1,
+        "bmb": 20,
+        "bmbm": 10,
+        "dfs": 15,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.4,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "txtanimation": true,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": false,
+        "arrowc": "#444444",
+        "arrowbg": "#ffffff",
+        "dot": true,
+        "dots": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781722aeb0502c": {
+      "type": "collections-banners",
+      "blocks": {
+        "1560507278694-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/womens-top.jpg",
+            "collection_name": "WOMEN TOPS",
+            "collection_name2": "From world's top designer",
+            "collection_btn": "DISCOVER NOW",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1560507334237": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "men-shoes",
+            "collection_image": "shopify:\/\/shop_images\/men-clothing.jpg",
+            "collection_name": "MEN SHIRTS",
+            "collection_name2": "Up to 70% off on selected item",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1560507278694-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hot-collection",
+            "collection_image": "shopify:\/\/shop_images\/denim_9fbab35d-066b-4f9e-accb-96416f6594fd.jpg",
+            "collection_name": "DENIM",
+            "collection_name2": "Find your perfect outfit",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1560593691516": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accssories",
+            "collection_image": "shopify:\/\/shop_images\/accesories.jpg",
+            "collection_name": "ACCESSORIES",
+            "collection_name2": "add finishing touch to your outfit",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "1560507278694-0",
+        "1560507334237",
+        "1560507278694-1",
+        "1560593691516"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": true,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 50,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 1,
+        "bdr": 0,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 16,
+        "tfsm": 15,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.1,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781728a88de982": {
+      "type": "product-slider",
+      "settings": {
+        "title": "<b>NEW ARRIVALS<\/b>",
+        "subtitle": "Shop our new arrivals from established brands",
+        "collection": "women",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "163378174190f4bb4d": {
+      "type": "collections-banners",
+      "blocks": {
+        "1561783119274-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/best-collections.jpg",
+            "collection_name": "FIND THE BEST COLLECTION AROUND THE WORLD",
+            "collection_name2": "",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1561783119274-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women-fashion",
+            "collection_image": "shopify:\/\/shop_images\/awesome-tops.jpg",
+            "collection_name": "AWESOME T-SHIRTS, CROP TOPS AND MORE...",
+            "collection_name2": "",
+            "collection_btn": "VIEW COLLECTION",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "1561783119274-0",
+        "1561783119274-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 60,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 1,
+        "bdr": 0,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 17,
+        "tfsm": 15,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_0c0397a5-2ba0-4637-a9f6-86e68b3d6289.png",
+            "link": "https:\/\/1.envato.market\/x5PKR",
+            "opentab": true
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_6bea7f1e-dc0a-446d-9714-c15ac0eaab06.png",
+            "link": "https:\/\/1.envato.market\/Der4n",
+            "opentab": true
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-1",
+        "1561785365595-2",
+        "1561785365595-5",
+        "1561785365595-3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "1633781776086e75a0": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "<b>FRESH FROM OUR BLOG<\/b>",
+        "subtitle": "You are going to love this amazing shopify theme.",
+        "top-offeset": "default",
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "blog": "news",
+        "img_ratio": "50",
+        "img_rad": 0,
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": false,
+        "color_ttl": "#111111",
+        "blogfs": 15,
+        "blogfsm": 14,
+        "blogtf": "font2",
+        "blogtw": "fw-600",
+        "blh": 1.2,
+        "blog_align": "tl",
+        "show_view_all": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "FREE SHIPPING & RETURN",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "MONEY GAURNTEE",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "ONLINE SUPPORT",
+            "text": "<p>We support online 24\/7 on day<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#131313",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#ffffff",
+        "isz": 38,
+        "tcl": "#ffffff",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#eeeeee",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1633781722aeb0502c",
+    "1633781728a88de982",
+    "163378174190f4bb4d",
+    "1633781759ce68e676",
+    "1633781776086e75a0",
+    "16337817926d98687d"
+  ]
+}

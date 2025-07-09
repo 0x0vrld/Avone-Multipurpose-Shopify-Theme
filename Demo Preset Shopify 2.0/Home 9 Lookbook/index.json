@@ -1,0 +1,487 @@
+{
+  "sections": {
+    "16338715149c0ef2e6": {
+      "type": "lookbook",
+      "blocks": {
+        "1559018731528": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr1.jpg",
+            "width": "wd50-md",
+            "product1": "emotion-mini-dress",
+            "p1_top": 45,
+            "p1_left": 57,
+            "dis-pstn1": "right",
+            "product2": "innerbloom-puffer-jacket",
+            "p2_top": 59,
+            "p2_left": 46,
+            "dis-pstn2": "right",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559018800206": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr2.jpg",
+            "width": "wd25-md",
+            "product1": "casual-indigo-shirt",
+            "p1_top": 3,
+            "p1_left": 41,
+            "dis-pstn1": "left",
+            "product2": "men-grey-pants",
+            "p2_top": 44,
+            "p2_left": 35,
+            "dis-pstn2": "left",
+            "product3": "top-slip-on-velcro-sneakers",
+            "p3_top": 88,
+            "p3_left": 64,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559019074644": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr3.jpg",
+            "width": "wd25-md",
+            "product1": "backpack-with-contrast",
+            "p1_top": 49,
+            "p1_left": 40,
+            "dis-pstn1": "left",
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559019149984": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr4.jpg",
+            "width": "wd25-md",
+            "product1": "camoscio-heel-taupe",
+            "p1_top": 49,
+            "p1_left": 45,
+            "dis-pstn1": "left",
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559019174243": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr5.jpg",
+            "width": "wd50-md",
+            "product1": "crop-top-green-1",
+            "p1_top": 62,
+            "p1_left": 32,
+            "dis-pstn1": "right",
+            "product2": "men-striped-ringer-tee",
+            "p2_top": 68,
+            "p2_left": 57,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559019196517": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lk-bnr7.jpg",
+            "width": "wd25-md",
+            "product1": "moonlight-bay-knit",
+            "p1_top": 34,
+            "p1_left": 34,
+            "dis-pstn1": "left",
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "1559019246187": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shoes.jpg",
+            "width": "wd25-md",
+            "product1": "glove-heel-black",
+            "p1_top": 51,
+            "p1_left": 45,
+            "dis-pstn1": "left",
+            "product2": "",
+            "p2_top": 1,
+            "p2_left": 1,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1559018731528",
+        "1559018800206",
+        "1559019074644",
+        "1559019149984",
+        "1559019174243",
+        "1559019196517",
+        "1559019246187"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": false,
+        "grid-spacing": 10,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "img_rad": 0
+      }
+    },
+    "163387209236483916": {
+      "type": "collection-list",
+      "blocks": {
+        "1559019475105-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women-fashion",
+            "collection_image": "shopify:\/\/shop_images\/women_d10df69d-e388-4daa-8a3f-4e7720e1f06b.jpg",
+            "collection_name": "Made For You",
+            "collection_btn": "WOMEN COLLECTION",
+            "url": ""
+          }
+        },
+        "1559019475105-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women-fashion",
+            "collection_image": "shopify:\/\/shop_images\/footwear.jpg",
+            "collection_name": "Make Me Chik",
+            "collection_btn": "SHOP FOOTEWEAR",
+            "url": ""
+          }
+        },
+        "1559019475105-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bag",
+            "collection_image": "shopify:\/\/shop_images\/bag_0f3a6e00-ca1b-48ed-98d0-110b13e2f641.jpg",
+            "collection_name": "Elements of Style",
+            "collection_btn": "Shop Bag",
+            "url": ""
+          }
+        },
+        "1559019475105-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women-fashion",
+            "collection_image": "shopify:\/\/shop_images\/men_2606ecb2-fc53-4234-99a8-cc883aa1659e.jpg",
+            "collection_name": "Men Collection",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1559019475105-0",
+        "1559019475105-1",
+        "1559019475105-2",
+        "1559019475105-3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "st4",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 16,
+        "tfsm": 16,
+        "tff": "ft2",
+        "tfw": "500",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163387041401e8cac7": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 800,
+        "tb_height": 350,
+        "mb_height": 250,
+        "parallax_scroll": true,
+        "image": "shopify:\/\/shop_images\/lk-full-banner.jpg",
+        "alignment": "center",
+        "pretext": "",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "<b>MATCHING STYLE AND CLASS WITH LUXURY COMFORT<\/b>",
+        "tcl": "#000000",
+        "tfs": 30,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.3,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>Freshen up your summer style with our edit of the prettiest white dresses to wear now<\/p>",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/women",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-jcc f-aic",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163387210762ff72b6": {
+      "type": "collection-tab",
+      "blocks": {
+        "1559031846255-0": {
+          "type": "cltabs",
+          "settings": {
+            "title": "Avon Essentials",
+            "collection": "women"
+          }
+        },
+        "1559031846255-1": {
+          "type": "cltabs",
+          "settings": {
+            "title": "Most Wanted",
+            "collection": "women-fashion"
+          }
+        },
+        "1559031846255-2": {
+          "type": "cltabs",
+          "settings": {
+            "title": "Purses and bags",
+            "collection": "women-fashion"
+          }
+        }
+      },
+      "block_order": [
+        "1559031846255-0",
+        "1559031846255-1",
+        "1559031846255-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style1",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "vrimage",
+        "v_f_bg_position": "50% 0",
+        "color_size": "medium",
+        "tab-style": "1",
+        "fs": 16,
+        "ff": "ft2",
+        "fw": "400",
+        "cl": "#111111",
+        "bg": "rgba(0,0,0,0)",
+        "bd": "rgba(0,0,0,0)",
+        "bdr": 0,
+        "cla": "#000000",
+        "bga": "rgba(0,0,0,0)",
+        "bda": "#000000",
+        "fsm": 14,
+        "clm": "#111111",
+        "bgm": "#eeeeee",
+        "clma": "#ffffff",
+        "bgma": "#111111"
+      }
+    },
+    "1633872125863bf060": {
+      "type": "store-features",
+      "blocks": {
+        "1564566964503-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-worldwide",
+            "title": "FREE SHIPPING",
+            "text": "<p>On all order above $199<\/p>",
+            "texturl": ""
+          }
+        },
+        "1564566964503-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-dollar",
+            "title": "FREE RETURNS",
+            "text": "<p>Returns items if do not like<\/p>",
+            "texturl": ""
+          }
+        },
+        "1564566964503-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "24 MONTHS WARRANTY",
+            "text": "<p>24 month warranty on all items<\/p>",
+            "texturl": ""
+          }
+        },
+        "1564567382586": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-recommended",
+            "title": "SATISFACTION GUARANTY",
+            "text": "<p>You will satisfy with your purchase<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1564566964503-0",
+        "1564566964503-1",
+        "1564566964503-2",
+        "1564567382586"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f0f0f0",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#000000",
+        "isz": 40,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "16338715149c0ef2e6",
+    "163387209236483916",
+    "163387041401e8cac7",
+    "163387210762ff72b6",
+    "1633872125863bf060"
+  ]
+}

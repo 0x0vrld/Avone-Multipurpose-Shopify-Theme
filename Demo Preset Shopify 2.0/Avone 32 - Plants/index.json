@@ -1,0 +1,716 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_multi_column_ejxtdK": {
+      "type": "slideshow-multi-column",
+      "blocks": {
+        "slide_tbdpqL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/autoparts-slide2.jpg",
+            "imagem": "shopify:\/\/shop_images\/autoparts-slide1.jpg",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "Power Tools For <br>Automotive Use.<br>",
+            "tcl": "#eeeeee",
+            "hd3": "Delivering professional outcomes",
+            "cl": "#eeeeee",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/auto-parts",
+            "btn1window": false,
+            "btn-style": "bdr-btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "bdr-btn1",
+            "bg": "#222222",
+            "bgg": "radial-gradient(rgba(34, 34, 34, 1) 14%, rgba(17, 17, 17, 1) 86%)",
+            "text-left": true,
+            "txtpos": "0"
+          }
+        },
+        "slide_HJbdpA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/light1.jpg",
+            "imagem": "shopify:\/\/shop_images\/light2.jpg",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "Light Up <br>Your Journey.",
+            "tcl": "#eeeeee",
+            "hd3": "Elevate your car's visibility with our <br>high-quality lighting products",
+            "cl": "#eeeeee",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "bdr-btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "bdr-btn1",
+            "bg": "#222222",
+            "bgg": "radial-gradient(rgba(34, 34, 34, 1) 14%, rgba(17, 17, 17, 1) 87%)",
+            "text-left": false,
+            "txtpos": "1"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tbdpqL",
+        "slide_HJbdpA"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "hide_mobile": false,
+        "hided": false,
+        "section_width": false,
+        "brd": 0,
+        "pfs": 12,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 40,
+        "bfsm": 24,
+        "bff": "ft1",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.4,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "hidema": false,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "hidemd": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "custom_content_masonry_paTHLK": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "collection_C3PPAW": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/exhausted_1.jpg",
+            "collection": "auto-parts",
+            "collection_name": "EXHAUST SYSTEM",
+            "color_ttl": "#222222",
+            "color_bg": "#ffffff",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        },
+        "collection_DRkkE6": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/HEadlight.jpg",
+            "collection": "",
+            "collection_name": "HEADLIGHTS & LIGHTING",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        },
+        "collection_ArC4xU": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/interior.jpg",
+            "collection": "",
+            "collection_name": "INTERIOR ACCESSORIES",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        },
+        "collection_FPmHgb": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/tools.jpg",
+            "collection": "",
+            "collection_name": "TOOLS & GARAGE",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        },
+        "collection_jpGRmd": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/bakers_1.jpg",
+            "collection": "",
+            "collection_name": "BRAKES, SUSPENSION",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        },
+        "collection_QDKqCe": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/exterior.jpg",
+            "collection": "",
+            "collection_name": "EXTERIOR ACCESSORIES",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 4,
+            "width": "wd50-md"
+          }
+        }
+      },
+      "block_order": [
+        "collection_C3PPAW",
+        "collection_DRkkE6",
+        "collection_ArC4xU",
+        "collection_FPmHgb",
+        "collection_jpGRmd",
+        "collection_QDKqCe"
+      ],
+      "settings": {
+        "title": "Popular Categories",
+        "subtitle": "Replacement parts and More...",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 40,
+        "grid-spacing-mbl": 20,
+        "grid-spacing-col": 2,
+        "prbox_style": "style1",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633781728a88de982": {
+      "type": "product-slider",
+      "settings": {
+        "title": "<b>NEW ARRIVALS<\/b>",
+        "subtitle": "Shop our new arrivals from established brands",
+        "collection": "auto-parts",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": true,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "section_space_BTVzLV": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "section_space_hiKp4X": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#faf5f5"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-medal",
+            "title": "Warranty",
+            "text": "<p>We offer a warranty on all items sold. If you need to claim against the warranty.<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-handshake-l",
+            "title": "Reliability",
+            "text": "<p>We not only sell themes, but provide the greatest after-sales support ever.<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-r",
+            "title": "Easy Returns",
+            "text": "<p>Ordered the wrong part?<br\/>Enjoy peace of mind with easy returns<\/p>",
+            "texturl": ""
+          }
+        },
+        "text_block_9yXAYh": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-badge-dollar",
+            "title": "Competitive Prices",
+            "text": "<p>We have the parts you need<br\/>at the most competitive prices<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2",
+        "text_block_9yXAYh"
+      ],
+      "settings": {
+        "title": "Our Benefits Will Change The Way You Buy Parts.",
+        "subtitle": "Order with confidence!",
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#faf5f5",
+        "bgg": "",
+        "hide_mobile": false,
+        "hided": false,
+        "style": "style1",
+        "icon-type": "icon",
+        "icons_clr": "#f11d1d",
+        "isz": 38,
+        "tcl": "#111111",
+        "tfs": 15,
+        "tfsm": 12,
+        "tfw": "500",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "section_space_WUtPfD": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#faf5f5"
+      }
+    },
+    "section_space_t6afPG": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "custom_content_FQzF3z": {
+      "type": "custom-content",
+      "blocks": {
+        "text_hMwXtL": {
+          "type": "text",
+          "settings": {
+            "title": "About Avone",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>We, as a supplier of Avone auto parts, prioritize autonomous driving, connectivity, and electrification in order to establish ourselves as a frontrunner in the smart mobility era. Our focus lies on three modular auto components - chassis, cockpit, and front-end - with the aim of enhancing driving safety and convenience, as well as providing service parts that are best suited for their intended use.<\/p>",
+            "dfs": 14,
+            "dlh": 1.7,
+            "dfsm": 13,
+            "btntxt": "Read More",
+            "btnurl": "\/",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "alignment": "f-asc",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#ffffff",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "video_QAN8WW": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4video": "shopify:\/\/files\/videos\/coworkers in the workshop_preview.mp4",
+            "enable_cntrl": false,
+            "is_autoplay": true,
+            "title": "",
+            "color_ttl": "#000000",
+            "tfs": 30,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 20,
+            "text_align": "f-jcc-md f-aie-md tc",
+            "bg_rad": 0,
+            "width": "wd66-md",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": [
+        "text_hMwXtL",
+        "video_QAN8WW"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 92,
+        "grid-spacing-mbl": 20,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "quotes_4bqHBV": {
+      "type": "quotes",
+      "blocks": {
+        "quote_FQrWpH": {
+          "type": "quote",
+          "settings": {
+            "title": "I have been purchasing parts from Avone for more than a year now. Last month I required a fuel pump for my Audi A6, which was not available anywhere. I found the parts just at the right time. Thank you Avone!! Highly Recommended.",
+            "quote": "",
+            "author": "CAR MECH, <span>Hyderabad<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_QDFDqQ": {
+          "type": "quote",
+          "settings": {
+            "title": "I have recently replaced a car part from the Avone service center and couldn’t be happier. They have a genuine collection of car parts and competitive pricing coupled with outstanding service. Highly Recommended Belle.",
+            "quote": "",
+            "author": "AARYA<span>MOTORS<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_i84UQ8": {
+          "type": "quote",
+          "settings": {
+            "title": "I have been purchasing parts from Avone for more than a year now. Last month I required a fuel pump for my Audi A6, which was not available anywhere. I found the parts just at the right time. Thank you Avone!! Highly Recommended.",
+            "quote": "",
+            "author": "KARAN<span>DHINGRA<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_9fjX9C": {
+          "type": "quote",
+          "settings": {
+            "title": "I started ordering online on Avone only last month. I had no control on the quality of parts delivered and the time taken for delivery. With Avone I saved a lot of time in trying to search for parts and also I got good discounts.",
+            "quote": "",
+            "author": "AARYA<span>MOTORS<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_FQrWpH",
+        "quote_QDFDqQ",
+        "quote_i84UQ8",
+        "quote_9fjX9C"
+      ],
+      "settings": {
+        "title": "Our Clients Love us!",
+        "top-offeset": "default",
+        "section_width": true,
+        "hide_mobile": false,
+        "hided": false,
+        "bg": "#faf5f5",
+        "bgg": "",
+        "quoteStyle": "style1",
+        "stcl": "#444444",
+        "qcl": "#444444",
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "500",
+        "tlh": 1.6,
+        "qfs": 13,
+        "qfsm": 13,
+        "rcl": "#ebb868",
+        "rfs": 16,
+        "isbox": false,
+        "qbg": "#ffffff",
+        "bg_rad": 0,
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "arrow": false,
+        "arwCl": "#000000",
+        "arwBg": "#ffffff",
+        "dots": true,
+        "dotCl": "#000000"
+      }
+    },
+    "collections_banners_icQfyi": {
+      "type": "collections-banners",
+      "blocks": {
+        "featured_collection_AeGAJ4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/exterior_cacc723c-e8dd-415c-8398-fc5cda95ba0b.jpg",
+            "collection_name": "BODY PARTS & MIRRORS",
+            "collection_name2": "Body parts and mirrors for different makes and models of vehicles.",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "featured_collection_NE6emR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/car-inter.jpg",
+            "collection_name": "INTERIOR ACCESSORIES",
+            "collection_name2": "Everything you need to customize your car and make it feel like home.",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_AeGAJ4",
+        "featured_collection_NE6emR"
+      ],
+      "settings": {
+        "title": "Flat 20% OFF Collections",
+        "subtitle": "LIMITED TIME OFFER",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 20,
+        "grid-spacing-col": 2,
+        "box-width": 50,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "ibdr": 4,
+        "disable_zoom": false,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.6,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo3_1.jpg",
+            "link": "https:\/\/loox.io\/app\/AdornLoox",
+            "opentab": true
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo4_1.jpg",
+            "link": "https:\/\/dashboard.weglot.com\/register?fp_ref=adornthemes",
+            "opentab": true
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo2_1.jpg",
+            "link": "https:\/\/growave.io\/?ref=sanjay",
+            "opentab": true
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo5_1.jpg",
+            "link": "https:\/\/share.channelwill.com\/app\/2166272af11b75cmNG",
+            "opentab": true
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo7_1.jpg",
+            "link": "https:\/\/parcelpanel.com\/?ref=5e39Ispm",
+            "opentab": true
+          }
+        },
+        "logo_image_4mGqQF": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo8_1.jpg",
+            "link": "https:\/\/pagefly.io\/?ref=gGyCj2T6&target=app-listing",
+            "opentab": true
+          }
+        },
+        "logo_image_Gf78kg": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo6_1.jpg",
+            "link": "",
+            "opentab": true
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-1",
+        "1561785365595-2",
+        "1561785365595-5",
+        "1561785365595-3",
+        "logo_image_4mGqQF",
+        "logo_image_Gf78kg"
+      ],
+      "settings": {
+        "title": "Most Popular Brands<br><br>",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 7,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": true,
+        "speed": 3
+      }
+    },
+    "section_space_wVH6wp": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 60,
+        "mdesk": 25,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "slideshow_multi_column_ejxtdK",
+    "custom_content_masonry_paTHLK",
+    "1633781728a88de982",
+    "section_space_BTVzLV",
+    "section_space_hiKp4X",
+    "16337817926d98687d",
+    "section_space_WUtPfD",
+    "section_space_t6afPG",
+    "custom_content_FQzF3z",
+    "quotes_4bqHBV",
+    "collections_banners_icQfyi",
+    "1633781759ce68e676",
+    "section_space_wVH6wp"
+  ]
+}

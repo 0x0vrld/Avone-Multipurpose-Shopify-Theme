@@ -1,0 +1,462 @@
+{
+  "sections": {
+    "section_space_xcKKAK": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 3,
+        "mdesk": 3,
+        "color_bg": "#ffffff"
+      }
+    },
+    "1642154045a6d4a386": {
+      "type": "collection-list",
+      "blocks": {
+        "164215404536a5c9d8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/demo31-4.jpg",
+            "collection_name": "SHOP THE VALENTINES",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "164215404536a5c9d8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/demo31-3.jpg",
+            "collection_name": "SHOP JACKETS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "164215404536a5c9d8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/demo31-2.jpg",
+            "collection_name": "SHOP DRESSES",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "164215404536a5c9d8-0",
+        "164215404536a5c9d8-1",
+        "164215404536a5c9d8-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 5,
+        "grid-spacing-mbl": 5,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "style3",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "tl",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "164196542879d531e5": {
+      "type": "products-rows",
+      "settings": {
+        "title": "BEST SELLING",
+        "subtitle": "BEST SELLING ITEM OF THIS MONTH",
+        "collection": "popular",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 12,
+        "secondary_image": false,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "show_view_all": "SHOP ALL",
+        "btn-style": "bdr-btn1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "164207500694460bbb": {
+      "type": "custom-content",
+      "blocks": {
+        "1642075006a214d6a0-0": {
+          "type": "text",
+          "settings": {
+            "title": "THIS WEEK’S <br>\nHIGHLIGHTS",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.1,
+            "text": "<p>Here is your chance to upgrade your wardrobe with a variation of styles<\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/women",
+            "btn-style": "bdr-btn1",
+            "width": "wd25-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": true,
+            "block_bg": "#ffffff",
+            "bg_rad": 0,
+            "block_txt": "#111"
+          }
+        },
+        "80f033df-a6ce-4f8b-a228-9b96c14b7500": {
+          "type": "product",
+          "settings": {
+            "product": "moonlight-bay-knit",
+            "width": "wd25-md",
+            "alignment": "center"
+          }
+        },
+        "b191c53e-fee9-4a38-92e3-3faca8108a9b": {
+          "type": "product",
+          "settings": {
+            "product": "cargo-pant",
+            "width": "wd25-md",
+            "alignment": "center"
+          }
+        },
+        "7e04607b-8680-40d1-84fe-cf4505782228": {
+          "type": "product",
+          "settings": {
+            "product": "button-up-top-black",
+            "width": "wd25-md",
+            "alignment": "center"
+          }
+        },
+        "461eb4fc-e162-4345-821c-d4d31426989e": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/women.jpg",
+            "collection": "women",
+            "collection_name": "WOMEN'S",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        },
+        "3e1dd15d-5465-485d-a801-cec234d7ca88": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/men_a116a27b-c773-4610-8f11-3f42b2dd80fd.jpg",
+            "collection": "men-shoes",
+            "collection_name": "MEN",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        },
+        "d232e1f9-faae-4bba-9b88-7fef3b21ca3a": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/kids.jpg",
+            "collection": "",
+            "collection_name": "KIDS",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": [
+        "1642075006a214d6a0-0",
+        "80f033df-a6ce-4f8b-a228-9b96c14b7500",
+        "b191c53e-fee9-4a38-92e3-3faca8108a9b",
+        "7e04607b-8680-40d1-84fe-cf4505782228",
+        "461eb4fc-e162-4345-821c-d4d31426989e",
+        "3e1dd15d-5465-485d-a801-cec234d7ca88",
+        "d232e1f9-faae-4bba-9b88-7fef3b21ca3a"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "radial-gradient(rgba(237, 133, 133, 1), rgba(250, 178, 178, 1) 100%)",
+        "prbox_style": "style2",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand1.jpg",
+            "link": "shopify:\/\/collections\/women",
+            "opentab": true
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand5.jpg",
+            "link": "\/",
+            "opentab": false
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand2.jpg",
+            "link": "shopify:\/\/collections\/women",
+            "opentab": false
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand3.jpg",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand4.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "510199bd-2ede-440c-9460-293cccd56dc4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand6.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "e05f3af7-3ad6-4e9e-a07d-44f8d037381b": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ribok.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "95d3a47d-dec8-4600-8d8c-62d29fe67273": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand7.jpg",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-3",
+        "1561785365595-1",
+        "1561785365595-2",
+        "1561785365595-5",
+        "510199bd-2ede-440c-9460-293cccd56dc4",
+        "e05f3af7-3ad6-4e9e-a07d-44f8d037381b",
+        "95d3a47d-dec8-4600-8d8c-62d29fe67273"
+      ],
+      "settings": {
+        "title": "AS SEEN IN",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f7f4f4",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 8,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "1633781776086e75a0": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "<b>FRESH FROM OUR BLOG<\/b>",
+        "subtitle": "You are going to love this amazing shopify theme.",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "blog": "news",
+        "img_ratio": "50",
+        "img_rad": 0,
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": false,
+        "color_ttl": "#111111",
+        "tfs": 16,
+        "tfsm": 14,
+        "bfw": "600",
+        "blh": 1.2,
+        "blog_align": "text-center",
+        "show_view_all": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "FREE SHIPPING & RETURN",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "MONEY GAURNTEE",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "ONLINE SUPPORT",
+            "text": "<p>We support online 24\/7 on day<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f5a4a4",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#ffffff",
+        "isz": 40,
+        "tcl": "#ffffff",
+        "tfs": 16,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.1,
+        "cl": "#ffffff",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "16418893939a480cd9": {
+      "type": "top-info-panel",
+      "disabled": true,
+      "settings": {
+        "fullwidth": false,
+        "topbarmobile": true,
+        "text_clr": "#ffffff",
+        "info_bg": "#111111",
+        "bgg": "",
+        "grid": 3,
+        "info_font": 12,
+        "tfw": "500",
+        "min_h": 30,
+        "m_text": false,
+        "m_speed": 12,
+        "m_speedm": 5
+      }
+    }
+  },
+  "order": [
+    "section_space_xcKKAK",
+    "1642154045a6d4a386",
+    "164196542879d531e5",
+    "164207500694460bbb",
+    "1633781759ce68e676",
+    "1633781776086e75a0",
+    "16337817926d98687d",
+    "16418893939a480cd9"
+  ]
+}

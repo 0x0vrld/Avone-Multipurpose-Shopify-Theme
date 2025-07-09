@@ -1,0 +1,243 @@
+{
+  "sections": {
+    "1633947275baf25879": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": true,
+        "ds_height": 600,
+        "tb_height": 350,
+        "mb_height": 250,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/slide3.jpg",
+        "alignment": "center",
+        "pretext": "",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "Ethically Made Swimsuits",
+        "tcl": "#000000",
+        "tfs": 25,
+        "tfsm": 18,
+        "tff": "ft2",
+        "tfw": "500",
+        "tlh": 1.1,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>So you can look good and feel good<\/p>",
+        "cl": "#000000",
+        "fs": 15,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/beachwear",
+        "link_image": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 1,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-aie-md f-jcs-md",
+        "bxalignm": "f-jcc f-aie",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2024",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163394731083423ea3": {
+      "type": "collections-banners",
+      "blocks": {
+        "1560507278694-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/cl-1.jpg",
+            "collection_name": "BIKINI BOTTOMS",
+            "collection_name2": "",
+            "collection_btn": "SHOP NOW",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "1560593691516": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/new-arrival.jpg",
+            "collection_name": "NEW ARRIVALS",
+            "collection_name2": "",
+            "collection_btn": "SHOP NOW",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "1560507334237": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/bottom-1_247fa443-4b01-4928-be0c-220e5321dab1.jpg",
+            "collection_name": "TOPS",
+            "collection_name2": "<b><u>DISCOVER NOW<\/u><\/b>",
+            "collection_btn": "",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "daa1cbda-074a-4843-86aa-7647dde406ff": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/one-peace.jpg",
+            "collection_name": "ONE PEACE",
+            "collection_name2": "",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "8df3a3cc-1fcf-47e6-9a76-4795af78db51": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/dress-2.jpg",
+            "collection_name": "DRESSES",
+            "collection_name2": "",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "ea4afc79-fe2e-4467-aff7-cf0700adaee9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beachwear",
+            "collection_image": "shopify:\/\/shop_images\/ACCE.jpg",
+            "collection_name": "ACCESSORIES",
+            "collection_name2": "",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tl",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "1560507278694-0",
+        "1560593691516",
+        "1560507334237",
+        "daa1cbda-074a-4843-86aa-7647dde406ff",
+        "8df3a3cc-1fcf-47e6-9a76-4795af78db51",
+        "ea4afc79-fe2e-4467-aff7-cf0700adaee9"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "box-width": 90,
+        "cl": "#ffffff",
+        "isbox": false,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 20,
+        "tfsm": 18,
+        "tff": "ft1",
+        "tfw": "500",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn3",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633947315b9aea8c8": {
+      "type": "product-slider",
+      "settings": {
+        "title": "MOST EXCLUSIVE DESIGNER",
+        "subtitle": "",
+        "collection": "beachwear",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style4",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "SHOP ALL",
+        "btn-style": "bdr-btn1"
+      }
+    },
+    "section_space_7it4Ym": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1633947275baf25879",
+    "163394731083423ea3",
+    "1633947315b9aea8c8",
+    "section_space_7it4Ym"
+  ]
+}

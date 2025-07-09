@@ -1,0 +1,267 @@
+{
+  "sections": {
+    "163387274621fd8173": {
+      "type": "collections-banners",
+      "blocks": {
+        "1559129429175-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/hero.jpg",
+            "collection_name": "The Premium Collection",
+            "collection_name2": "With sun-soaked shades and beach-to-street staples, things are heating up this summer.",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-aie f-jcs",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "1559129429175-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 2,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 30,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 24,
+        "tfsm": 20,
+        "tff": "ft1",
+        "tfw": "400",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633872941e98a2620": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "1561985943663": {
+          "type": "product",
+          "settings": {
+            "product": "button-up-top-black",
+            "width": "wd50-md"
+          }
+        },
+        "1561985961895": {
+          "type": "product",
+          "settings": {
+            "product": "high-waist-jeans",
+            "width": "wd25-md"
+          }
+        },
+        "1561985980398": {
+          "type": "product",
+          "settings": {
+            "product": "backpack-with-contrast",
+            "width": "wd25-md"
+          }
+        },
+        "1561986010991": {
+          "type": "product",
+          "settings": {
+            "product": "metal-buckle-skinny-belt",
+            "width": "wd25-md"
+          }
+        },
+        "1561986031536": {
+          "type": "product",
+          "settings": {
+            "product": "toledo-mules-shoes",
+            "width": "wd25-md"
+          }
+        }
+      },
+      "block_order": [
+        "1561985943663",
+        "1561985961895",
+        "1561985980398",
+        "1561986010991",
+        "1561986031536"
+      ],
+      "settings": {
+        "title": "Handpicked Items",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 4,
+        "prbox_style": "style2",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633872979b84905c6": {
+      "type": "custom-content",
+      "blocks": {
+        "1559129558138": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/colect-bnr2.jpg",
+            "title": "The Summer Color Code",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>The boldest hues to wear bright about now<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Shop the edit",
+            "btnurl": "shopify:\/\/collections\/men",
+            "btn-style": "bdr-btn1",
+            "width": "wd50-md",
+            "alignment": "center",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "1559129817665": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/colect-bnr1.jpg",
+            "title": "The Crop Top",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Instantly update your look with must have crop tops<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Get the Look",
+            "btnurl": "shopify:\/\/collections\/hot-collection",
+            "btn-style": "bdr-btn1",
+            "width": "wd50-md",
+            "alignment": "top-middle",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1559129558138",
+        "1559129817665"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163387041401e8cac7": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 540,
+        "tb_height": 300,
+        "mb_height": 220,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/summer-wear.jpg",
+        "alignment": "center",
+        "pretext": "",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "NEW ARRIVALS",
+        "tcl": "#000000",
+        "tfs": 40,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.3,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>Freshen up your summer style with our edit of the prettiest white dresses to wear now<\/p>",
+        "cl": "#000000",
+        "fs": 18,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "View Collection",
+        "button_link": "shopify:\/\/collections\/women-fashion",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-jcc f-aic",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    }
+  },
+  "order": [
+    "163387274621fd8173",
+    "1633872941e98a2620",
+    "1633872979b84905c6",
+    "163387041401e8cac7"
+  ]
+}

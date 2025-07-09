@@ -1,0 +1,690 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1551272048529-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dome2-bnr1.jpg",
+            "imagem": "shopify:\/\/shop_images\/classic-mb-bnr1.jpg",
+            "ialign": "center_center",
+            "hd1": "Perfect & Productive",
+            "pcl": "#000000",
+            "phbg": "rgba(0,0,0,0)",
+            "title": "Powerful Theme for <br>Growing Companies",
+            "tcl": "#000000",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": false,
+            "btn": "Buy now",
+            "link": "https:\/\/1.envato.market\/KdyYx",
+            "btn1window": true,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1450,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        },
+        "1561207196499": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dome2-bnr2.jpg",
+            "imagem": "shopify:\/\/shop_images\/classic-mb-bnr2.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#fff",
+            "title": "Small Studio, Big Ideas",
+            "tcl": "#000000",
+            "hd3": "Creative, Flexible and High Performance shopify theme<br> to make your business shine!",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1450,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        }
+      },
+      "block_order": [
+        "1551272048529-0",
+        "1561207196499"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 800,
+        "htt": 640,
+        "htm": 550,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 20,
+        "pfsm": 16,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 0,
+        "pmbm": 0,
+        "bfs": 43,
+        "bfsm": 27,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 20,
+        "bmbm": 10,
+        "dfs": 18,
+        "dfsm": 16,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.4,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-lg",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": true,
+        "anim": "st3",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#111111",
+        "arrowbg": "#fff",
+        "dot": true,
+        "dots": "#ffffff",
+        "snow_effect": false,
+        "snow_style": "style2"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "1553770620622-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "Call Us Anytime",
+            "text": "<p>+1 (250) 444-5555<\/p>",
+            "texturl": "shopify:\/\/blogs\/news"
+          }
+        },
+        "1553770620622-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "Free Shipping",
+            "text": "<p>When you spend $100+<\/p>",
+            "texturl": ""
+          }
+        },
+        "1553770620622-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-r",
+            "title": "Free Returns",
+            "text": "<p>30-days free return policy.<\/p>",
+            "texturl": ""
+          }
+        },
+        "1558589695426": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-lock-al",
+            "title": "Secured Payments",
+            "text": "<p>We accept major credit cards.<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1553770620622-0",
+        "1553770620622-1",
+        "1553770620622-2",
+        "1558589695426"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": true,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#333333",
+        "isz": 40,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "163384894805abe27d": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#fff"
+      }
+    },
+    "16338489519b992bde": {
+      "type": "grid-banners",
+      "blocks": {
+        "1558597562068": {
+          "type": "style4",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/womens-cloth.jpg",
+            "text1": "Women",
+            "text1-large": "",
+            "bnr1align": "f-aie f-jcs",
+            "link1": "shopify:\/\/collections\/women",
+            "image2": "shopify:\/\/shop_images\/men-jeans.jpg",
+            "text2": "Men",
+            "text2-large": "",
+            "bnr2align": "f-aie f-jcs",
+            "link2": "shopify:\/\/collections\/men",
+            "image3": "shopify:\/\/shop_images\/backpack_f24c0acc-0030-448d-beb1-e28b2749fd0d.jpg",
+            "text3": "Backpack",
+            "text3-large": "",
+            "bnr3align": "f-aie f-jcs",
+            "link3": "shopify:\/\/collections\/bag",
+            "image4": "shopify:\/\/shop_images\/sunglasses.jpg",
+            "text4": "Accessories",
+            "text4-large": "",
+            "bnr4align": "f-aie f-jcs",
+            "link4": "shopify:\/\/collections\/accssories"
+          }
+        }
+      },
+      "block_order": [
+        "1558597562068"
+      ],
+      "settings": {
+        "title": "Shop The Edit",
+        "subtitle": "The easiest and fastest way to create grid banners.",
+        "top-offeset": "default",
+        "fullwidth": false,
+        "hide_mobile": false,
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "500",
+        "lh": 1.2,
+        "cl2": "#000000",
+        "tfs": 24,
+        "tfsm": 18,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.2,
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 1,
+        "bdr": 0,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "snow_effect": false,
+        "snow_style": "style2"
+      }
+    },
+    "1633848970e1f2b22f": {
+      "type": "collection-tab",
+      "blocks": {
+        "1561207381780-0": {
+          "type": "cltabs",
+          "settings": {
+            "title": "WOMEN",
+            "collection": "women"
+          }
+        },
+        "1561207381780-2": {
+          "type": "cltabs",
+          "settings": {
+            "title": "MEN",
+            "collection": "men"
+          }
+        },
+        "1561207381780-1": {
+          "type": "cltabs",
+          "settings": {
+            "title": "ACCESSORIES",
+            "collection": "accssories"
+          }
+        }
+      },
+      "block_order": [
+        "1561207381780-0",
+        "1561207381780-2",
+        "1561207381780-1"
+      ],
+      "settings": {
+        "title": "Editor's Pick",
+        "subtitle": "Shop our Editor's Picks for outfit inspiration and must-have looks",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style4",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": false,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "tab-style": "2",
+        "fs": 12,
+        "ff": "ft1",
+        "fw": "400",
+        "cl": "#111111",
+        "bg": "#ffffff",
+        "bd": "#ffffff",
+        "bdr": 22,
+        "cla": "#ffffff",
+        "bga": "#111111",
+        "bda": "#111111",
+        "fsm": 14,
+        "clm": "#111111",
+        "bgm": "#eeeeee",
+        "clma": "#ffffff",
+        "bgma": "#111111"
+      }
+    },
+    "1633848439393923b6": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 900,
+        "tb_height": 510,
+        "mb_height": 320,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/summer-wear.jpg",
+        "alignment": "center",
+        "pretext": "HOT COLLECTION",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "Summer In The City",
+        "tcl": "#000000",
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.3,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>the brand continues to champion and further strengthen its core belief of size inclusivity by launching its new collection ‘Summer in the City’. The collection speaks of fresh summer hues, breezy silhouettes and more, available across sizes.<\/p>",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.5,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "View Collection",
+        "button_link": "shopify:\/\/collections\/beachwear",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-jcc f-aic",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style2"
+      }
+    },
+    "1633849015cddeede8": {
+      "type": "banner-with-text",
+      "blocks": {
+        "1558071430491a44bb-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/best-seller.jpg",
+            "layout": "left",
+            "title": "Shop the Best Sellers",
+            "tcl": "#000000",
+            "text": "<p>Shop our best sellers from emerging and established<br\/> brands all over the globe<\/p>",
+            "cl": "#000000",
+            "button_label": "Shop It Now",
+            "button_link": "shopify:\/\/products\/crop-top-green",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "text-left",
+            "bg": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1558071430491a44bb-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "bg_rad": 0,
+        "tfs": 27,
+        "tfsm": 22,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 18,
+        "fsm": 15,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 25,
+        "mbm": 15,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633849095fd47da86": {
+      "type": "banner-with-text",
+      "blocks": {
+        "1558596938919-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/day-night.jpg",
+            "layout": "right",
+            "title": "Day to Night",
+            "tcl": "#000000",
+            "text": "<p>Whether you're going to the bar from the office or out on the town, browse our Day to Night looks to take you through to the evening, hassle-free<\/p>",
+            "cl": "#000000",
+            "button_label": "View Collection",
+            "button_link": "shopify:\/\/collections\/dresses",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "tc",
+            "bg": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "1558596938919-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "rgba(0,0,0,0)",
+        "bgg": "",
+        "bg_rad": 0,
+        "tfs": 27,
+        "tfsm": 22,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 15,
+        "fs": 18,
+        "fsm": 15,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 15,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1650103948444a31b7": {
+      "type": "quotes",
+      "blocks": {
+        "1650103948d94eedb4-0": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/author2.png",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>I  deal quite a bit with programming and manage a lot of integration with customer services of different companies, but I must say [again], the quality of your product and the service you offering is the best I have experienced!!!<\/p>",
+            "author": "Richard Parker<span>Maccy Founder<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "1650103948d94eedb4-1": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/author1.png",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>The website template is very beautiful, the functionality is exactly what I need, and the service support is convenient to solve my problems quickly. Excellent support. I am happy I chose this theme above the others that are available. <\/p>",
+            "author": "Elizabeth<span>FASION DESIGNER<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "1650103948d94eedb4-2": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/author3.png",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>I  deal quite a bit with programming and manage a lot of integration with customer services of different companies, but I must say [again], the quality of your product and the service you offering is the best I have experienced!!!<\/p>",
+            "author": "BOX HILL<span>Ekansh Founder<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "0fbb0521-38d3-4767-ab19-8b0a686dd02f": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/test.png",
+            "title": "Incredible UI\/UX",
+            "quote": "<p>I  deal quite a bit with programming and manage a lot of integration with customer services of different companies, but I must say [again], the quality of your product and the service you offering is the best I have experienced!!!<\/p>",
+            "author": "Richard Parker<span>Maccy Founder<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "1650103948d94eedb4-0",
+        "1650103948d94eedb4-1",
+        "1650103948d94eedb4-2",
+        "0fbb0521-38d3-4767-ab19-8b0a686dd02f"
+      ],
+      "settings": {
+        "title": "Happy Customers",
+        "top-offeset": "default",
+        "section_width": false,
+        "bg": "#ffffff",
+        "bgg": "",
+        "quoteStyle": "style2",
+        "stcl": "#444444",
+        "qcl": "#444444",
+        "tfs": 16,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "qfs": 14,
+        "qfsm": 12,
+        "rcl": "#f5a13f",
+        "rfs": 16,
+        "isbox": true,
+        "qbg": "#f5f5f5",
+        "bg_rad": 0,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arwCl": "#000000",
+        "arwBg": "#fff",
+        "dots": false,
+        "dotCl": "#000000"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561289518002-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_0c0397a5-2ba0-4637-a9f6-86e68b3d6289.png",
+            "link": "https:\/\/1.envato.market\/x5PKR",
+            "opentab": false
+          }
+        },
+        "1561289518002-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_6bea7f1e-dc0a-446d-9714-c15ac0eaab06.png",
+            "link": "https:\/\/themeforest.net\/item\/nexgeek-multipurpose-responsive-shopify-theme\/19279281",
+            "opentab": false
+          }
+        },
+        "1561289518002-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561289518002-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561289518002-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561289518002-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561289518002-0",
+        "1561289518002-1",
+        "1561289518002-2",
+        "1561289518002-3",
+        "1561289518002-4",
+        "1561289518002-5"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "163384913527933d47": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter Subscribe",
+        "subtitle": "Sign up to stay in the loop. Receive updates, access to exclusive deals, and more.",
+        "text_clr": "#000000",
+        "input_text": "#000000",
+        "input_bg": "#ffffff",
+        "input_btn_text": "#ffffff",
+        "input_btn": "#000000",
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "section_cov": true,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "bdr": 0
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "16337817926d98687d",
+    "163384894805abe27d",
+    "16338489519b992bde",
+    "1633848970e1f2b22f",
+    "1633848439393923b6",
+    "1633849015cddeede8",
+    "1633849095fd47da86",
+    "1650103948444a31b7",
+    "1633781759ce68e676",
+    "163384913527933d47"
+  ]
+}

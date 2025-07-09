@@ -1,0 +1,713 @@
+{
+  "sections": {
+    "slideshow_wKjeK7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_YcPGx7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skin-slide2.webp",
+            "ialign": "center_center",
+            "hd1": "20% OFF",
+            "pcl": "#ffffff",
+            "phbg": "rgba(0,0,0,0)",
+            "title": "EMPOWER<br> YOUR SKIN",
+            "tcl": "#ffffff",
+            "hd3": "We’ve raised the skincare standards to the level women deserve with results leading the industry.",
+            "cl": "#ffffff",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/skincare",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1360,
+            "text_width": 520,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        },
+        "image_R9pwcf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skin-slide1.webp",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#ffffff",
+            "phbg": "#ffffff",
+            "title": "ROUTINE <br>FACE KIT",
+            "tcl": "#ffffff",
+            "hd3": "Adopt a daily skincare routine with avone five minutes facial to support your skin health.",
+            "cl": "#ffffff",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/skincare",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1600,
+            "text_width": 530,
+            "text-left": true,
+            "txtpos": "f-aie-md f-jcs-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        }
+      },
+      "block_order": ["image_YcPGx7", "image_R9pwcf"],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "hided": false,
+        "hide_mobile": false,
+        "section_width": false,
+        "ht": "2",
+        "htd": 800,
+        "htt": 600,
+        "htm": 300,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 99,
+        "bfsm": 40,
+        "bff": "ft1",
+        "bfw": "700",
+        "blh": 1,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 22,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.4,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "txtanimation": false,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 8,
+        "autoplay": true,
+        "speed": 4,
+        "arrow": false,
+        "hidema": false,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": true,
+        "hidemd": false,
+        "dots": "#746661",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "collection_list_XqcbGA": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BpjJew": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/test4_95b238c1-e7cb-4cb7-94b1-d31435cb9442.jpg",
+            "collection_name": "Acne",
+            "collection_btn": "Shop Now",
+            "url": "shopify:\/\/collections\/skincare"
+          }
+        },
+        "featured_collection_PzFP6J": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/skinlist5.webp",
+            "collection_name": "Dry Skin",
+            "collection_btn": "Shop Now",
+            "url": "shopify:\/\/collections\/skincare"
+          }
+        },
+        "featured_collection_UYt6Ae": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/skinlist2.webp",
+            "collection_name": "Dark Circle",
+            "collection_btn": "Shop Now",
+            "url": "shopify:\/\/collections\/skincare"
+          }
+        },
+        "featured_collection_GptHLR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/skinlist4.webp",
+            "collection_name": "Dullness",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "featured_collection_nARxgT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/skinlist3.webp",
+            "collection_name": "Pigmentation",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": ["featured_collection_BpjJew", "featured_collection_PzFP6J", "featured_collection_UYt6Ae", "featured_collection_GptHLR", "featured_collection_nARxgT"],
+      "settings": {
+        "title": "SHOP BY CONCERNS",
+        "subtitle": "Find right products & routines for your skin needs <br><br>",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 60,
+        "grid-spacing-mbl": 20,
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "st4",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 4,
+        "textalign": "tc",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 150,
+        "disable_zoom": false,
+        "tfs": 22,
+        "tfsm": 15,
+        "tff": "ft1",
+        "tfw": "500",
+        "tlh": 1.2,
+        "cl": "#ffffff",
+        "bg": "#746661",
+        "opt": 0,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "products_rows_YVQNwy": {
+      "type": "products-rows",
+      "settings": {
+        "title": "LOVED BY OUR CUSTOMERS",
+        "subtitle": "Our hardworking beauty treats care <br>for your body from head to toe.",
+        "collection": "skincare",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style1",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 8,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "show_view_all": "SHOP ALL",
+        "btn-style": "bdr-btn1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "slideshow_multi_column_nwzXqJ": {
+      "type": "slideshow-multi-column",
+      "blocks": {
+        "slide_eJMjXj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skintool1.jpg",
+            "imagem": "shopify:\/\/shop_images\/skintool2.jpg",
+            "hd1": "READY TO SHOP",
+            "pcl": "#746661",
+            "phbg": "#ffffff",
+            "title": "WE WANTED TO CHANGE THE WAY YOU THINK ABOUT SKINCARE",
+            "tcl": "#746661",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": false,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/skincare",
+            "btn1window": false,
+            "btn-style": "bdr-btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "bg": "#f9efec",
+            "bgg": "",
+            "text-left": true,
+            "text_width": 500,
+            "txtpos": "2"
+          }
+        }
+      },
+      "block_order": ["slide_eJMjXj"],
+      "settings": {
+        "top-offeset": "default",
+        "npd": true,
+        "hide_mobile": false,
+        "hided": false,
+        "section_width": false,
+        "brd": 0,
+        "pfs": 12,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 36,
+        "bfsm": 24,
+        "bff": "ft1",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 20,
+        "bmbm": 5,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "hidema": false,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "hidemd": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "section_space_gadNVt": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "custom_content_LXUmpc": {
+      "type": "custom-content",
+      "blocks": {
+        "text_wdRkQU": {
+          "type": "text",
+          "settings": {
+            "title": "How to use Avone serum?",
+            "fs": 30,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<ul><li>Take a small amount of our serum onto your fingertips and apply it <br\/>to your forehead, cheeks, chin, and neck in gentle circular motions.<\/li><li>Be sure to avoid the delicate eye area.<\/li><li>Allow the serum to fully absorb into your skin before applying any other products. <\/li><li>Our serum can be used both morning and night for best results.<\/li><\/ul>",
+            "dfs": 16,
+            "dlh": 1.8,
+            "dfsm": 13,
+            "btntxt": "SHOP NOW",
+            "btnurl": "shopify:\/\/collections\/skincare",
+            "btn-style": "bdr-btn1",
+            "width": "wd33-md",
+            "alignment": "f-asc",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#edeff1",
+            "bg_rad": 12,
+            "block_txt": "#111111"
+          }
+        },
+        "video_k7Mf8B": {
+          "type": "video",
+          "settings": {
+            "video_url": "",           
+            "enable_cntrl": false,
+            "is_autoplay": true,
+            "title": "",
+            "color_ttl": "#000000",
+            "tfs": 30,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 20,
+            "text_align": "f-jcc-md f-aie-md tc",
+            "bg_rad": 8,
+            "width": "wd66-md",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": ["text_wdRkQU", "video_k7Mf8B"],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 100,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "before_after_T4DtWi": {
+      "type": "before-after",
+      "settings": {
+        "title": "Observe the transformation <br>following the use of our products.",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 12,
+        "image": "shopify:\/\/shop_images\/beforeserum-skin.jpg",
+        "blbl": "Before",
+        "imagea": "shopify:\/\/shop_images\/afterserum.jpg",
+        "albl": "After",
+        "cl": "#ffffff",
+        "bg": "#000000",
+        "fs": 14,
+        "fsm": 14,
+        "ff": "ft2",
+        "fw": "500",
+        "scl": "#000000",
+        "sbg": "#ffffff",
+        "sd": "#000000"
+      }
+    },
+    "1633781759ce68e676": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shopify-logo.jpg",
+            "link": "https:\/\/1.envato.market\/Der4n",
+            "opentab": true
+          }
+        },
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/envato-logo.jpg",
+            "link": "https:\/\/1.envato.market\/x5PKR",
+            "opentab": true
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo7_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo6_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo2_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "logo_image_4P3kVt": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo5_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "logo_image_RRncpx": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo3_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "logo_image_egHQAt": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/newlogo8_1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": ["1561785365595-1", "1561785365595-0", "1561785365595-2", "1561785365595-5", "1561785365595-3", "logo_image_4P3kVt", "logo_image_RRncpx", "logo_image_egHQAt"],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 8,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "quotes_kBmjW9": {
+      "type": "quotes",
+      "blocks": {
+        "quote_Cdwzhp": {
+          "type": "quote",
+          "settings": {
+            "title": "I love these products! I have waited a good 4-5 weeks before posting to see longer term results, and I am so pleasantly surprised with how my skin feels. I also love the small trial pots, so you can properly try the products before committing to the products in full. My favourites are the enrich serum",
+            "quote": "",
+            "author": "Cory Zamora<span>SKIN AND HAIR STUDIO<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_QbE3dD": {
+          "type": "quote",
+          "settings": {
+            "title": "Lovely products from this company, I especially love the face wash for mature skin, my skin feels so soft after using it, and the smell is divine. Prompt delivery and responsible packaging too. Very happy to recommend to others.",
+            "quote": "",
+            "author": "Herman Miller<span>GRAPHIC DESIGNER<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "quote_9fBXpW": {
+          "type": "quote",
+          "settings": {
+            "title": "I bought two oils, rojoie and sweet almond. One for a scar following surgery and one for everywhere everyday. I never remember which is which and it doesn't matter because they are both amazing. My skin is brighter, softer, more supple. They both have great qualities as oils and conscious skincar",
+            "quote": "",
+            "author": "Jackie Sanders<span>Microsoft Corporation<\/span><br>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": ["quote_Cdwzhp", "quote_QbE3dD", "quote_9fBXpW"],
+      "settings": {
+        "title": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "hided": false,
+        "bg": "#fbf5f0",
+        "bgg": "",
+        "quoteStyle": "style1",
+        "stcl": "#444444",
+        "qcl": "#444444",
+        "tfs": 23,
+        "tfsm": 16,
+        "tff": "ft3",
+        "tfw": "400",
+        "tlh": 1.4,
+        "qfs": 14,
+        "qfsm": 13,
+        "rcl": "#746661",
+        "rfs": 15,
+        "isbox": false,
+        "qbg": "#ffffff",
+        "bg_rad": 8,
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "arrow": false,
+        "arwCl": "#000000",
+        "arwBg": "#ffffff",
+        "dots": true,
+        "dotCl": "#000000"
+      }
+    },
+    "1633781776086e75a0": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "BEAUTY SECRETS",
+        "subtitle": "The skin care tips, trends, and advice you should know",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "hided": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "blog": "skincare",
+        "img_ratio": "50",
+        "img_rad": 10,
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_show_author": true,
+        "blog_show_date": true,
+        "show_comment": false,
+        "show_mini_des": true,
+        "twords": 150,
+        "show_read_more": true,
+        "color_ttl": "#111111",
+        "blogfs": 22,
+        "blogfsm": 20,
+        "blogtf": "font2",
+        "blogtw": "fw-600",
+        "blh": 1.4,
+        "blog_align": "tl",
+        "show_view_all": false,
+        "btn-style": "btn3",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "section_space_aKbE3p": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 60,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "section_space_kLzhXa": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 40,
+        "mdesk": 15,
+        "color_bg": "#fbf5f0"
+      }
+    },
+    "16337817926d98687d": {
+      "type": "store-features",
+      "blocks": {
+        "text_block_eCggUD": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "CLEAN SKINCARE",
+            "text": "<p>Natural skincare with safe and transparent ingredients<\/p>",
+            "texturl": ""
+          }
+        },
+        "text_block_N9fP7M": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-r",
+            "title": "ALL NATURAL",
+            "text": "<p>No harsh chemicals, harnessing best from Mother Earth<\/p>",
+            "texturl": ""
+          }
+        },
+        "text_block_hzFpTT": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-lock-al",
+            "title": "CRUELTY FREE",
+            "text": "<p>Zero animal testing on all products and ingredients<\/p>",
+            "texturl": ""
+          }
+        },
+        "text_block_hYHeiY": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-chat",
+            "title": "VEGAN",
+            "text": "<p>Absolutely no animal-based ingredients or bi-products<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": ["text_block_eCggUD", "text_block_N9fP7M", "text_block_hzFpTT", "text_block_hYHeiY"],
+      "settings": {
+        "title": "YOUR SAFETY IS OUR TOP MOST PRIORITY",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fbf5f0",
+        "bgg": "",
+        "hide_mobile": false,
+        "hided": false,
+        "style": "style1",
+        "icon-type": "icon",
+        "icons_clr": "#333333",
+        "isz": 30,
+        "tcl": "#111111",
+        "tfs": 15,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "#eeeeee"
+      }
+    },
+    "section_space_fL7mHb": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#fbf5f0"
+      }
+    }
+  },
+  "order": ["slideshow_wKjeK7", "collection_list_XqcbGA", "products_rows_YVQNwy", "slideshow_multi_column_nwzXqJ", "section_space_gadNVt", "custom_content_LXUmpc", "before_after_T4DtWi", "1633781759ce68e676", "quotes_kBmjW9", "1633781776086e75a0", "section_space_aKbE3p", "section_space_kLzhXa", "16337817926d98687d", "section_space_fL7mHb"]
+}

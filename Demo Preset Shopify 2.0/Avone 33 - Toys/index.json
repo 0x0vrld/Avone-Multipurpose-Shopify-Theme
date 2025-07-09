@@ -1,0 +1,638 @@
+{
+  "sections": {
+    "1642680988cf2f976f": {
+      "type": "collection-list",
+      "blocks": {
+        "1642680988c8fb195f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/carrycoat_bdb76ad8-f786-48ec-a2a8-3423a9fb836a.jpg",
+            "collection_name": "Baby Carry Cot",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1642680988c8fb195f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/stoller.jpg",
+            "collection_name": "Baby Strollers",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1642680988c8fb195f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/ACTIVITY.jpg",
+            "collection_name": "Activity Toys",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "61b58551-928a-420d-b70f-99498317c737": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/dolhouse.jpg",
+            "collection_name": "Dollhouse",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "e7730177-9366-4f59-acc8-70c55e6eb4ad": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/swing.jpg",
+            "collection_name": "Kids Swing Set",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "d08537d2-c076-4562-b142-f463a3954c2e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/kids-car.jpg",
+            "collection_name": "Kids Cars",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642680988c8fb195f-0",
+        "1642680988c8fb195f-1",
+        "1642680988c8fb195f-2",
+        "61b58551-928a-420d-b70f-99498317c737",
+        "e7730177-9366-4f59-acc8-70c55e6eb4ad",
+        "d08537d2-c076-4562-b142-f463a3954c2e"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 2,
+        "grid-spacing-mbl": 0,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "style": "st5",
+        "enable_carousel": false,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 15,
+        "tfsm": 16,
+        "tff": "ft2",
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#000000",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 5,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1642670834a06c4721": {
+      "type": "product-slider",
+      "settings": {
+        "title": "New Arrival",
+        "subtitle": "",
+        "collection": "toys",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 6,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "16427566865c5fcfdf": {
+      "type": "collection-list",
+      "blocks": {
+        "16427566863df062d3-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toys",
+            "collection_image": "shopify:\/\/shop_images\/kido1.png",
+            "collection_name": "0-12 Months",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "16427566863df062d3-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kido2.jpg",
+            "collection_name": "1- 2 Years",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "16427566863df062d3-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kido3.jpg",
+            "collection_name": "2 - 4 Years",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "16427566863df062d3-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kido4.jpg",
+            "collection_name": "5 - 7 Years",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "c398376e-c32f-4f20-a7eb-f61cf4eaa3a6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kido5.jpg",
+            "collection_name": "8 - 11 Years",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16427566863df062d3-0",
+        "16427566863df062d3-1",
+        "16427566863df062d3-2",
+        "16427566863df062d3-3",
+        "c398376e-c32f-4f20-a7eb-f61cf4eaa3a6"
+      ],
+      "settings": {
+        "title": "Shop By Age",
+        "subtitle": "Open-Ended Play at Every Age",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fae7f6",
+        "bgg": "radial-gradient(rgba(250, 231, 246, 1), rgba(253, 210, 244, 1) 51%, rgba(250, 231, 246, 1) 96%)",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "st3",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 16,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#cc539e",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 8,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1642758275719aba4e": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Shop Best Seller",
+        "subtitle": "",
+        "collection": "toys-best-seller",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style1",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 6,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "1642758193ae1b5d31": {
+      "type": "collection-list",
+      "blocks": {
+        "164275819242ebb673-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi1.jpg",
+            "collection_name": "Under $10",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "164275819242ebb673-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi2.jpg",
+            "collection_name": "Under $20",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "164275819242ebb673-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi3.jpg",
+            "collection_name": "Under $40",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "164275819242ebb673-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi4.jpg",
+            "collection_name": "Under $60",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "573b8deb-8a29-4a9c-909f-33d2256f9b88": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi5.jpg",
+            "collection_name": "Under $100",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "aff81a26-e3f7-432d-ad4f-8572e6632927": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "collection_image": "shopify:\/\/shop_images\/kidi6.jpg",
+            "collection_name": "Above $100",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "164275819242ebb673-0",
+        "164275819242ebb673-1",
+        "164275819242ebb673-2",
+        "164275819242ebb673-3",
+        "573b8deb-8a29-4a9c-909f-33d2256f9b88",
+        "aff81a26-e3f7-432d-ad4f-8572e6632927"
+      ],
+      "settings": {
+        "title": "Shop by price",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#ceecfc",
+        "bgg": "radial-gradient(rgba(231, 244, 252, 1) 3%, rgba(195, 230, 249, 1) 100%)",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "st3",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "400",
+        "tlh": 1.2,
+        "cl": "#056893",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 8,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "164276719358b2b029": {
+      "type": "logo-list",
+      "blocks": {
+        "164276719313ee8c7c-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand7.jpg",
+            "link": "shopify:\/\/collections\/toys",
+            "opentab": false
+          }
+        },
+        "164276719313ee8c7c-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand6.jpg",
+            "link": "shopify:\/\/collections\/toys",
+            "opentab": false
+          }
+        },
+        "164276719313ee8c7c-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ribok.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "164276719313ee8c7c-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand5.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "164276719313ee8c7c-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand4.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "164276719313ee8c7c-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand3.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "066b75c4-6d42-4092-9d74-b9f0cd6e6677": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand2.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "6c077cd9-9621-4f2f-8818-30c57caf8f21": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand1.jpg",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "164276719313ee8c7c-0",
+        "164276719313ee8c7c-1",
+        "164276719313ee8c7c-2",
+        "164276719313ee8c7c-3",
+        "164276719313ee8c7c-4",
+        "164276719313ee8c7c-5",
+        "066b75c4-6d42-4092-9d74-b9f0cd6e6677",
+        "6c077cd9-9621-4f2f-8818-30c57caf8f21"
+      ],
+      "settings": {
+        "title": "Shop By Brand",
+        "subtitle": "We work with the best brands",
+        "top-offeset": "none",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fdf5f5",
+        "bgg": "",
+        "img_rad": 5,
+        "grid": 8,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "16427703447d7034d8": {
+      "type": "custom-content",
+      "blocks": {
+        "cb7bd1ce-1d58-48f2-9b5b-00aadd97a434": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4video": "shopify:\/\/files\/videos\/final.mp4",
+            "enable_cntrl": false,
+            "is_autoplay": true,
+            "title": "",
+            "color_ttl": "#ffffff",
+            "tfs": 20,
+            "bfw": "600",
+            "blh": 1.2,
+            "tfsm": 12,
+            "text_align": "left",
+            "bg_rad": 10,
+            "width": "wd50-md",
+            "alignment": "f-asc"
+          }
+        },
+        "164277034482925273-0": {
+          "type": "text",
+          "settings": {
+            "title": "Welcome to Avone Toys Shop",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Anyone who has visited a Avone shop knows that its more than just a shop. It’s an incredible experience - history and fun all rolled into one. Here’s how that came to be.<\/p><p><strong>What Avone Promise? <\/strong><br\/><br\/>All products sold on the Avone website are certified for the highest quality of materials and child safety. We handpick toys only from ethical and reputed brands. We don’t play around when it comes to quality.<\/p><p><\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "\/",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "alignment": "f-asc",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "cb7bd1ce-1d58-48f2-9b5b-00aadd97a434",
+        "164277034482925273-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 59,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "164276650334c94af4": {
+      "type": "store-features",
+      "blocks": {
+        "1642766503fd883214-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-vh-bus-l",
+            "title": "Free Delivery",
+            "text": "<p>For all orders over $100<\/p>",
+            "texturl": ""
+          }
+        },
+        "1642766503fd883214-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-r",
+            "title": "3 Days Return",
+            "text": "<p>If goods have problems<\/p>",
+            "texturl": ""
+          }
+        },
+        "1642766503fd883214-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-credit-card-l",
+            "title": "Secure Payment",
+            "text": "<p>100% secure payment<\/p>",
+            "texturl": ""
+          }
+        },
+        "7a6976d0-dbe6-4f9b-a010-e4207e5d6a77": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-comments-l",
+            "title": "24\/7 Support",
+            "text": "<p>Dedicated support<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642766503fd883214-0",
+        "1642766503fd883214-1",
+        "1642766503fd883214-2",
+        "7a6976d0-dbe6-4f9b-a010-e4207e5d6a77"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#ff6f69",
+        "isz": 50,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "1642768213e9812f22": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1642680988cf2f976f",
+    "1642670834a06c4721",
+    "16427566865c5fcfdf",
+    "1642758275719aba4e",
+    "1642758193ae1b5d31",
+    "164276719358b2b029",
+    "16427703447d7034d8",
+    "164276650334c94af4",
+    "1642768213e9812f22"
+  ]
+}

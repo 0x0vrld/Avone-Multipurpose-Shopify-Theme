@@ -1,0 +1,469 @@
+{
+  "sections": {
+    "16339443987556519f": {
+      "type": "collection-list",
+      "blocks": {
+        "1552390315466-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/top-1_213e1062-ee2f-4452-8f4e-9b3554817ac9.jpg",
+            "collection_name": "Our featured collection<br> to find a your perfect outfit",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390315466-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/men_e56ef9a1-1ebc-4e62-bf21-d06f384ad7d9.jpg",
+            "collection_name": "Buy from wide range<br>of men's collection",
+            "collection_btn": "Shop Shoes",
+            "url": ""
+          }
+        },
+        "1561804329960": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bag",
+            "collection_image": "shopify:\/\/shop_images\/bag_99923880-282c-4279-8fa2-f3410dd6056e.jpg",
+            "collection_name": "Bags from word's <br>top designer Gallery",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390322442": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/tp3_c240b212-7d08-4000-b97a-ce2c816c8cf1.jpg",
+            "collection_name": "Be Stylish! Find the <br>perfect shoes for women",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1552390315466-0",
+        "1552390315466-1",
+        "1561804329960",
+        "1552390322442"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 2,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "style": "st1",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 25,
+        "tfsm": 19,
+        "tff": "ft2",
+        "tfw": "400",
+        "tlh": 1.2,
+        "cl": "#ffffff",
+        "bg": "#111111",
+        "opt": 0.4,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163387423840c26cef": {
+      "type": "custom-content",
+      "blocks": {
+        "1560423649194": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/day-dress.jpg",
+            "title": "Day Dresses",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Something new under the sun<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Shop Now",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "1560425407288": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d68639f4-2c36-41da-b9b1-e49b9794a17a.jpg",
+            "title": "The Vacation Shop",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Keep your bag packed with fashionable clothes and accessories<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Shop The Trend",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd50-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "1560425825613": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shoes2.jpg",
+            "title": "Holiday Shoes",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Happy Feet<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Shop Now",
+            "btnurl": "#",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "top-middle",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "1560423649194",
+        "1560425407288",
+        "1560425825613"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "16339451276ac0b714": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "ds_height": 600,
+        "tb_height": 450,
+        "mb_height": 350,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/hero.jpg",
+        "alignment": "top",
+        "pretext": "Markdowns up to 65% off",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "Discover better basic and modern, made of steel for your black.",
+        "tcl": "#000000",
+        "tfs": 30,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "400",
+        "tlh": 1.1,
+        "tmb": 15,
+        "tmbm": 10,
+        "text": "",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/popular",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-aie f-jcs",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633945181e6a0c20a": {
+      "type": "store-features",
+      "blocks": {
+        "1560426810092-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-gift-box",
+            "title": "FREESHIPPING WORLD WIDE",
+            "text": "<p>Freeshipping over oder $100<\/p>",
+            "texturl": ""
+          }
+        },
+        "1560426810092-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "30 DAYS MONEY RETURNS",
+            "text": "<p>Derabitur eget vehicula<\/p>",
+            "texturl": ""
+          }
+        },
+        "1560426810092-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-recommended",
+            "title": "100% SECURE CHECKOUT",
+            "text": "<p>Buyer Protection & Security<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1560426810092-0",
+        "1560426810092-1",
+        "1560426810092-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style1",
+        "icon-type": "icon",
+        "icons_clr": "#000000",
+        "isz": 40,
+        "tcl": "#111111",
+        "tfs": 15,
+        "tfsm": 13,
+        "tfw": "500",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    },
+    "16339451973adb5ce3": {
+      "type": "products-columns",
+      "blocks": {
+        "1561804866962": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "New Arrivals",
+            "collection": "women-fashion"
+          }
+        },
+        "1561804815698-0": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Top Seller",
+            "collection": "women"
+          }
+        },
+        "1561804815698-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Top Rated",
+            "collection": "men"
+          }
+        },
+        "1561804815698-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "Deal Of the Day",
+            "collection": "hot-collection"
+          }
+        }
+      },
+      "block_order": [
+        "1561804866962",
+        "1561804815698-0",
+        "1561804815698-1",
+        "1561804815698-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid": "4",
+        "rows": "4",
+        "cl": "#333333",
+        "fs": 18,
+        "fsm": 16,
+        "ff": "ft2",
+        "fw": "500",
+        "lh": 1.2
+      }
+    },
+    "16339443629a4b7ddb": {
+      "type": "custom-content",
+      "blocks": {
+        "1561806374232": {
+          "type": "text",
+          "settings": {
+            "title": "Must Have Picks",
+            "fs": 25,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Shop our Editor's Picks for outfit inspiration and must-have looks<\/p>",
+            "dfs": 16,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd100",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "1561806104200": {
+          "type": "product",
+          "settings": {
+            "product": "women-shorts",
+            "width": "wd25-md",
+            "alignment": "center"
+          }
+        },
+        "1561806152573": {
+          "type": "product",
+          "settings": {
+            "product": "toledo-mules-shoes",
+            "width": "wd25-md",
+            "alignment": "center"
+          }
+        },
+        "1561806173022": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/view-collection_4149e223-4791-4db6-ab47-356c3abb9864.jpg",
+            "collection": "women",
+            "collection_name": "View Collection",
+            "color_ttl": "#000",
+            "color_bg": "#f5f5f5",
+            "tfs": 16,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd50-md",
+            "alignment": "f-ass"
+          }
+        }
+      },
+      "block_order": [
+        "1561806374232",
+        "1561806104200",
+        "1561806152573",
+        "1561806173022"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "prbox_style": "style2",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163394525693ef2704": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#fff"
+      }
+    }
+  },
+  "order": [
+    "16339443987556519f",
+    "163387423840c26cef",
+    "16339451276ac0b714",
+    "1633945181e6a0c20a",
+    "16339451973adb5ce3",
+    "16339443629a4b7ddb",
+    "163394525693ef2704"
+  ]
+}

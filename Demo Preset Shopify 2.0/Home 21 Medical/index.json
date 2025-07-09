@@ -1,0 +1,821 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1561726660568-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_a28b3654-4666-427b-9228-4ab13fe8f8e1.jpg",
+            "ialign": "center_center",
+            "hd1": "MAKING BRAND VISIBLE",
+            "pcl": "#e34848",
+            "phbg": "#ffffff",
+            "title": "<b> WELL PREPARED<br>FOR CORONA VIRUS?<\/b>",
+            "tcl": "#000000",
+            "hd3": "An Intelligent and beautiful shopify theme",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        },
+        "1591016675927": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_88510c74-4b78-47cd-81d5-ed6dd9493ce9.jpg",
+            "ialign": "center_center",
+            "hd1": "MAKING BRAND VISIBLE",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "STAY CLEAN DISINFECT",
+            "tcl": "#000000",
+            "hd3": "We at Adornthemes make beautiful,<br> conversion-focused, high-quality Shopify themes.",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        }
+      },
+      "block_order": [
+        "1561726660568-0",
+        "1591016675927"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 600,
+        "htt": 500,
+        "htm": 350,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 12,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 50,
+        "bfsm": 25,
+        "bff": "ft1",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 14,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.5,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-lg",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": true,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": false,
+        "hidema": false,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": true,
+        "hidemd": false,
+        "dots": "#444444",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163378174190f4bb4d": {
+      "type": "collections-banners",
+      "blocks": {
+        "1591099798735": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/1_dab83ea4-4cff-407f-8dc3-26a9a6e5ccb2.jpg",
+            "collection_name": "Safety face shields",
+            "collection_name2": "Very effective protection against the spread of viruses.",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "1591099372447-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-medical",
+            "collection_image": "shopify:\/\/shop_images\/2_9820872a-8ca1-4e8b-a342-50ef4a9c6924.jpg",
+            "collection_name": "Contact Thermometer",
+            "collection_name2": "High definition display, Measure in 1s, Fever warning",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        },
+        "1591099372447-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/3.jpg",
+            "collection_name": "Latex Surgical Gloves",
+            "collection_name2": "Powder Free, Meets ASTM requirements",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "33"
+          }
+        }
+      },
+      "block_order": [
+        "1591099798735",
+        "1591099372447-1",
+        "1591099372447-0"
+      ],
+      "settings": {
+        "title": "Covid-19 Supplies",
+        "subtitle": "Lockdown end but safety measure should not!",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 22,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 3,
+        "box-width": 80,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 5,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16338673837e5578a8": {
+      "type": "collections-banners",
+      "blocks": {
+        "1591179012230-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-medical",
+            "collection_image": "shopify:\/\/shop_images\/4_fdf647d0-ceaf-4b52-a036-4b19e05056e5.jpg",
+            "collection_name": "Protect yourself with covid essentials",
+            "collection_name2": "Get 20% OFF for Limited time",
+            "collection_btn": "Shop  Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        },
+        "1591179012230-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/2_27d83a6f-fcbb-4298-928d-e18f31314d0e.jpg",
+            "collection_name": "Kids Protective Masks",
+            "collection_name2": "Having Trouble Finding A Face Mask That Fits Your Child’s Face?",
+            "collection_btn": "Shop Now",
+            "url": "",
+            "talign": "tc",
+            "text_pos": "f-jcc f-aie",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "1591179012230-0",
+        "1591179012230-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 60,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 6,
+        "ibdr": 0,
+        "disable_zoom": false,
+        "tfs": 18,
+        "tfsm": 16,
+        "tff": "ft1",
+        "tfw": "600",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633867418f7fcc97b": {
+      "type": "collection-tab",
+      "blocks": {
+        "1591182489119-0": {
+          "type": "cltabs",
+          "settings": {
+            "title": "Covid 19 Care",
+            "collection": "covid-protection"
+          }
+        },
+        "1591182489119-1": {
+          "type": "cltabs",
+          "settings": {
+            "title": "Best Sellers",
+            "collection": "medical"
+          }
+        },
+        "1591182489119-2": {
+          "type": "cltabs",
+          "settings": {
+            "title": "New Arrivals",
+            "collection": "new-medical"
+          }
+        }
+      },
+      "block_order": [
+        "1591182489119-0",
+        "1591182489119-1",
+        "1591182489119-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "tab-style": "1",
+        "fs": 16,
+        "ff": "ft1",
+        "fw": "400",
+        "cl": "#666666",
+        "bg": "#ffffff",
+        "bd": "#eeeeee",
+        "bdr": 7,
+        "cla": "#3185cd",
+        "bga": "#fafafa",
+        "bda": "#3185cd",
+        "fsm": 14,
+        "clm": "#111111",
+        "bgm": "#eeeeee",
+        "clma": "#ffffff",
+        "bgma": "#111111"
+      }
+    },
+    "1633867427d403e84d": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 600,
+        "tb_height": 350,
+        "mb_height": 250,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/banner_b85dd9c0-b40d-4508-928e-e08841e982d5.jpg",
+        "alignment": "center",
+        "pretext": "Hurry Up!",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "BUY COVID-19 PRODUCTS<br> IN SALE",
+        "tcl": "#000000",
+        "tfs": 30,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.3,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>Buy masks, face shields hand sanitizer and many more covid products in sale with best price. Grab the items before sale end. <\/p>",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/medical",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 8,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-aic-md f-jcs-md",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": true,
+        "cnt_date": "05\/20\/2025",
+        "cntbg": "#3185cd",
+        "cntcl": "#eeeeee",
+        "cntbd": "#3185cd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633867435c96c1a59": {
+      "type": "collection-list",
+      "blocks": {
+        "1591249921515-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "covid-protection",
+            "collection_image": "shopify:\/\/shop_images\/mask.jpg",
+            "collection_name": "Face Masks, N95, KN95 and Cloth",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591249921515-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/2_4e485fde-8a62-4b0c-a750-637ea4077af8.jpg",
+            "collection_name": "Disposable Gloves & Finger Cots",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591249921515-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-medical",
+            "collection_image": "shopify:\/\/shop_images\/3_4e03c60b-35fc-4e44-be22-90355ddf584f.jpg",
+            "collection_name": "Fingertip Pulse Oximeters, Digital",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591249921515-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/4_d96ab1aa-ec44-402f-9cf1-2e1235bffc97.jpg",
+            "collection_name": "Hypodermic Needles & Syringes",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591250623847": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/5_8f1caab6-ef01-42d5-831a-195e03e3e586.jpg",
+            "collection_name": "Hand Sanitizer & Disinfectants",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591250695428": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-medical",
+            "collection_image": "shopify:\/\/shop_images\/8_bae3b7da-d06c-4a7b-b98c-dcf05a878335.jpg",
+            "collection_name": "hospital equipment and furniture",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591250748294": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "medical",
+            "collection_image": "shopify:\/\/shop_images\/8.jpg",
+            "collection_name": "Nebulization Supplies",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1591250795248": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-medical",
+            "collection_image": "shopify:\/\/shop_images\/9.jpg",
+            "collection_name": "Stethoscope",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1591249921515-0",
+        "1591249921515-1",
+        "1591249921515-2",
+        "1591249921515-3",
+        "1591250623847",
+        "1591250695428",
+        "1591250748294",
+        "1591250795248"
+      ],
+      "settings": {
+        "title": "Shop By Categories",
+        "subtitle": "Shop our best-selling products, including high quality surgical implements",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "style3",
+        "enable_carousel": false,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": true,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 15,
+        "tfsm": 15,
+        "tff": "ft1",
+        "tfw": "400",
+        "tlh": 1.2,
+        "cl": "#ffffff",
+        "bg": "#58c38d",
+        "opt": 0.9,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633867459b05364b4": {
+      "type": "logo-list",
+      "blocks": {
+        "1561785365595-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_9eb2641a-69e9-42c3-8a9d-2ada87c615b9.jpg",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561785365595-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_87f14c63-c9f0-49ab-bf9c-52dab48675dd.jpg",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561785365595-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_06eca5da-a83c-48e2-a9bc-9f66541f6387.jpg",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561785365595-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "link": "#",
+            "opentab": false
+          }
+        },
+        "1561785365595-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.jpg",
+            "link": "",
+            "opentab": false
+          }
+        },
+        "1591245962136": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "link": "",
+            "opentab": false
+          }
+        }
+      },
+      "block_order": [
+        "1561785365595-0",
+        "1561785365595-1",
+        "1561785365595-2",
+        "1561785365595-5",
+        "1561785365595-3",
+        "1591245962136"
+      ],
+      "settings": {
+        "title": "Best Selling Brands",
+        "subtitle": "Check out our popular supplier lines for the best in disposables, <br>clinical instruments, and much more.",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "img_rad": 0,
+        "grid": 6,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5
+      }
+    },
+    "163386520992042806": {
+      "type": "banner-with-text",
+      "blocks": {
+        "1591095486946-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_ce2e1d4c-ed35-4875-ba3f-5545f39c17ee.jpg",
+            "layout": "left",
+            "title": "COVID-19 Resource Center.",
+            "tcl": "#ffffff",
+            "text": "<p>See how we’re responding to COVID-19, access<br\/> webinars and training and more<\/p>",
+            "cl": "#ffffff",
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/collections\/medical",
+            "btncl": "#67b0ee",
+            "btnbg": "#ffffff",
+            "btnbd": "#ffffff",
+            "text_align": "text-left",
+            "bg": "#67b0ee"
+          }
+        }
+      },
+      "block_order": [
+        "1591095486946-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "bg_rad": 6,
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 18,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 10,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16338674938771e822": {
+      "type": "store-features",
+      "blocks": {
+        "1591096327503-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<span style=\"font-weight:600\">FREE SHIPPING<\/span>",
+            "text": "<p>Authentic Brand Products  <\/p>",
+            "texturl": "#"
+          }
+        },
+        "1591096327503-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-l",
+            "title": "<span style=\"font-weight:600\">EASY RETURNS<\/span>",
+            "text": "<p>Simple Returns Policy<\/p>",
+            "texturl": "#"
+          }
+        },
+        "1591096327503-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-credit-card-l",
+            "title": "<span style=\"font-weight:600\">SECURE PAYMENTS<\/span>",
+            "text": "<p>100% Payment Protection<\/p>",
+            "texturl": "#"
+          }
+        },
+        "1591243653389": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-l",
+            "title": "<span style=\"font-weight:600\">HELP NUMBER<\/span>",
+            "text": "<p>0750-545-6099<\/p>",
+            "texturl": "#"
+          }
+        }
+      },
+      "block_order": [
+        "1591096327503-0",
+        "1591096327503-1",
+        "1591096327503-2",
+        "1591243653389"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "hide_mobile": false,
+        "style": "style1",
+        "icon-type": "icon",
+        "icons_clr": "#139ddd",
+        "isz": 30,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#333333",
+        "border_sep": "#eeeeee"
+      }
+    },
+    "163386750392d878da": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "<b>Fresh from our blog<\/b>",
+        "subtitle": "It is all about pandemic covid-19",
+        "top-offeset": "default",
+        "section_cov": true,
+        "sec_bg_clr": "#f5f5f5",
+        "bgg": "",
+        "blog": "medical",
+        "img_ratio": "60",
+        "img_rad": 0,
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_comment": true,
+        "show_mini_des": true,
+        "twords": 50,
+        "show_read_more": false,
+        "color_ttl": "#111111",
+        "blogfs": 16,
+        "blogfsm": 14,
+        "blogtf": "font2",
+        "blogtw": "fw-600",
+        "blh": 1.2,
+        "blog_align": "tl",
+        "show_view_all": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163386751345fda072": {
+      "type": "text-line",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "bg": "#3185cd",
+        "bgg": "radial-gradient(rgba(49, 182, 212, 1) 14%, rgba(49, 133, 205, 1) 83%)",
+        "br": 0,
+        "infolines": "<a href=\"#\">Get the latest updates on access to high-demand supplies and crisis response resources. \n<\/a>",
+        "cl": "#ffffff",
+        "fs": 24,
+        "fsm": 18,
+        "ff": "ft1",
+        "fw": "400",
+        "lh": 1.3,
+        "text-padding": 20
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "163378174190f4bb4d",
+    "16338673837e5578a8",
+    "1633867418f7fcc97b",
+    "1633867427d403e84d",
+    "1633867435c96c1a59",
+    "1633867459b05364b4",
+    "163386520992042806",
+    "16338674938771e822",
+    "163386750392d878da",
+    "163386751345fda072"
+  ]
+}

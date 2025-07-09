@@ -1,0 +1,553 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "1561726660568-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-1.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "<b>NEW IN<\/b>",
+            "tcl": "#ffffff",
+            "hd3": "WIDE RANGE OF YOGA CLOTHES",
+            "cl": "#ffffff",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "shopify:\/\/collections\/yoga",
+            "btn1window": false,
+            "btn-style": "btn3",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": false,
+            "txtpos": "f-jcc-md f-aie-md",
+            "txtposm": "f-jcc f-aie"
+          }
+        },
+        "51bd8dca-1825-4e4b-937c-a0aa3802c2c8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-2.jpg",
+            "ialign": "center_center",
+            "hd1": "",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "RELAX & RELEASE",
+            "tcl": "#000000",
+            "hd3": "YOGA EQUIPMENT TO STRETCH YOUR BODY AND STILL YOUR MIND",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": false,
+            "txtpos": "f-jcc-md f-ais-md",
+            "txtposm": "f-jcc f-ais"
+          }
+        }
+      },
+      "block_order": [
+        "1561726660568-0",
+        "51bd8dca-1825-4e4b-937c-a0aa3802c2c8"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 800,
+        "htt": 550,
+        "htm": 350,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 50,
+        "bfsm": 25,
+        "bff": "ft1",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 13,
+        "dfsm": 13,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": true,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#111111",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16338736588e760e27": {
+      "type": "custom-content",
+      "blocks": {
+        "91e326b2-5a87-49c3-b917-edbe9d35091d": {
+          "type": "liquid",
+          "settings": {
+            "code": "",
+            "width": "wd100",
+            "alignment": "f-asc"
+          }
+        },
+        "15b1652f-7f1a-490a-af7b-be57583ca384": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div class=\"tc\">\n<h3>YOGA IS A LIFESTYLE<\/h3>\nOur wide selection of colourful and trendy yoga clothes has something for every yogi's taste. <br>From high wasted yoga leggings, yoga outfit sets, padded yoga tops and supportive yoga <br> bras to comfortable harem yoga pants and yoga jumpsuits. <\/div>",
+            "width": "wd100",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": [
+        "91e326b2-5a87-49c3-b917-edbe9d35091d",
+        "15b1652f-7f1a-490a-af7b-be57583ca384"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "1633944419580410db": {
+      "type": "custom-content",
+      "blocks": {
+        "06fbca3a-b1d9-4b29-b7b6-0c4e355b5219": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/COL-2.jpg",
+            "collection": "yoga",
+            "collection_name": "<b>YOGA KITS<\/b>",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        },
+        "418e96ed-e4e3-46b4-b3c9-02fae447b418": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/col-2_f6f99fb6-7e85-4801-8001-a29a0ee3d886.jpg",
+            "collection": "yoga",
+            "collection_name": "<b>YOGA CLOTHES<\/b>",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        },
+        "99d2dba6-2e83-406d-aec1-6d5622814acb": {
+          "type": "collection",
+          "settings": {
+            "collection_image": "shopify:\/\/shop_images\/col-3.jpg",
+            "collection": "yoga",
+            "collection_name": "<b>YOGA MATS<\/b>",
+            "color_ttl": "#000000",
+            "color_bg": "#f5f5f5",
+            "tfs": 14,
+            "bfw": "500",
+            "blh": 1.2,
+            "tfsm": 14,
+            "bg_rad": 0,
+            "width": "wd33-md",
+            "alignment": "f-asc"
+          }
+        }
+      },
+      "block_order": [
+        "06fbca3a-b1d9-4b29-b7b6-0c4e355b5219",
+        "418e96ed-e4e3-46b4-b3c9-02fae447b418",
+        "99d2dba6-2e83-406d-aec1-6d5622814acb"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md"
+      }
+    },
+    "1633873705e42d1a6c": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "16339444218402b814": {
+      "type": "product-slider",
+      "settings": {
+        "title": "<b>NEW ARRIVALS<\/b>",
+        "subtitle": "Shop our new arrivals from established brands",
+        "collection": "yoga",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style5",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "autoplay": false,
+        "speed": 5,
+        "show_view_all": "",
+        "btn-style": "btn"
+      }
+    },
+    "1633944438121b5398": {
+      "type": "banner-with-text",
+      "blocks": {
+        "16028525870ab0ed50-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero.jpg",
+            "layout": "left",
+            "title": "How to make a yoga mat more sticky?",
+            "tcl": "#000000",
+            "text": "<p>The earth friendly Eco Cork Yoga Mat is made from cork of Oak trees and natural rubber from sustainable rubber farms. We are here to serve your yoga and wellbeing journey.<\/p>",
+            "cl": "#000000",
+            "button_label": "Read More",
+            "button_link": "#",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "text-left",
+            "bg": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "16028525870ab0ed50-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "bg_rad": 0,
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 14,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 10,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163394363853331306": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "1633944495c97d3858": {
+      "type": "banner-with-text",
+      "blocks": {
+        "1602925355487-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mediation-2.jpg",
+            "layout": "right",
+            "title": "Take a Moment",
+            "tcl": "#000000",
+            "text": "<p>Inhale, expand the chest, sit up tall. Pause. Exhale, release, relax the shoulders.<\/p><p>Repeat as many times as you like before continuing with your day.<\/p>",
+            "cl": "#000000",
+            "button_label": "Explore meditation",
+            "button_link": "#",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "text-left",
+            "bg": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "1602925355487-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "bg_rad": 0,
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 14,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 10,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633944535f8521889": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "16339445397af5db1d": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "ds_height": 700,
+        "tb_height": 510,
+        "mb_height": 350,
+        "parallax_scroll": true,
+        "image": "shopify:\/\/shop_images\/hero-1.jpg",
+        "alignment": "center",
+        "pretext": "MADE BY YOGIS",
+        "pcl": "#333333",
+        "pfs": 13,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "600",
+        "plh": 1.3,
+        "pmb": 10,
+        "pmbm": 5,
+        "title": "HIGH QUALITY YOGA SUPPLIERS",
+        "tcl": "#000000",
+        "tfs": 25,
+        "tfsm": 20,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.3,
+        "tmb": 10,
+        "tmbm": 5,
+        "text": "<p>Yogis make yoga clothing that moves and flows with your body. Snug but not too tight, no riding up or down, flattering your unique body shape without unintentional exposure.<\/p>",
+        "cl": "#000000",
+        "fs": 14,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "LEARN MORE",
+        "button_link": "#",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-md",
+        "isbox": true,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 5,
+        "ibdr": 0,
+        "bmw": 500,
+        "textalign": "tc",
+        "bxalign": "f-ais f-jcs",
+        "bxalignm": "f-jcc f-aic",
+        "wd": 1200,
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16339445513e87f401": {
+      "type": "instagram",
+      "settings": {
+        "title": "Avone On Instagram",
+        "subtitle": "Phasellus lorem malesuada ligula pulvinar commodo auctom.",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "act": "IGQWRNaUpGSHJMQzBjSUtBVGZAyMkIzazRKNUZAiRklpUDN1eklWZAHZAhWEpLdzRyUUdsYWZAGaklEb3RJUmMzak8yMWdFV3hlMWVTUWF4dTFtZAnpsdzZAGSjFEUzIwYzV3SzU0YUZAzWDRDYUhpRXllVXNoSUVoMXZAFWmMZD",
+        "instastyle": "List",
+        "grid_space": false,
+        "brd": 0,
+        "limit": 10,
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "instagram_button_text": "View Gallery",
+        "instagram_button_link": "IGQVJWbk85NGZAYVC11TzFEaC1XNm5fWHVrV3R5ZAkZAyTFVVM3R2M2piQ2JYN0JlZAG5IbGN6cDVJMk15WHQwdkFwYnhwaXRGajk3ODhjdTc4ZAzhSdUVpTWREQUFPeEhBdkNYWGxyMnQ0a1VrNmhadldYRQZDZD"
+      }
+    },
+    "16339445599afec9cc": {
+      "type": "store-features",
+      "blocks": {
+        "1561784085337-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "FREE SHIPPING & RETURN",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "MONEY GAURNTEE",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        },
+        "1561784085337-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "ONLINE SUPPORT",
+            "text": "<p>We support online 24\/7 on day<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1561784085337-0",
+        "1561784085337-1",
+        "1561784085337-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": true,
+        "sec_bg_clr": "#eeeeee",
+        "bgg": "linear-gradient(133deg, rgba(222, 243, 244, 1) 11%, rgba(252, 227, 235, 1) 49%, rgba(228, 220, 249, 1) 87%)",
+        "hide_mobile": false,
+        "style": "style2",
+        "icon-type": "icon",
+        "icons_clr": "#111111",
+        "isz": 30,
+        "tcl": "#111111",
+        "tfs": 14,
+        "tfsm": 12,
+        "tfw": "600",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "border_sep": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "16338736588e760e27",
+    "1633944419580410db",
+    "1633873705e42d1a6c",
+    "16339444218402b814",
+    "1633944438121b5398",
+    "163394363853331306",
+    "1633944495c97d3858",
+    "1633944535f8521889",
+    "16339445397af5db1d",
+    "16339445513e87f401",
+    "16339445599afec9cc"
+  ]
+}

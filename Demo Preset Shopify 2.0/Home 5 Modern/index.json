@@ -1,0 +1,459 @@
+{
+  "sections": {
+    "1633868263f21fa906": {
+      "type": "slideshow",
+      "blocks": {
+        "1551272048529-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern-slide-bnr1.jpg",
+            "ialign": "center_center",
+            "hd1": "WOMEN COLLECTION",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "DAILY STANDARDS",
+            "tcl": "#000000",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": false,
+            "btn": "Explore now",
+            "link": "shopify:\/\/collections\/men",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": false,
+            "txtpos": "f-jcc-md f-aic-md",
+            "txtposm": "f-jcc f-aic"
+          }
+        },
+        "1551272048529-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/modern-slide-bnr2.jpg",
+            "ialign": "center_center",
+            "hd1": "NEW ARRIVALS",
+            "pcl": "#000000",
+            "phbg": "#ffffff",
+            "title": "THE CLASSIC",
+            "tcl": "#000000",
+            "hd3": "",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Discover now",
+            "link": "shopify:\/\/collections\/women",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        }
+      },
+      "block_order": [
+        "1551272048529-0",
+        "1551272048529-1"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 700,
+        "htt": 490,
+        "htm": 250,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 10,
+        "pfsm": 16,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 15,
+        "pmbm": 5,
+        "bfs": 55,
+        "bfsm": 30,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1.2,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-sm",
+        "txtanimation": true,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 7,
+        "arrow": true,
+        "arrowc": "#000000",
+        "arrowbg": "#ffffff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "163386828047acb23e": {
+      "type": "grid-banners",
+      "blocks": {
+        "1559035416043": {
+          "type": "style6",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/new-styles.jpg",
+            "text1": "Best Clothes Online",
+            "text1-large": "NEW STYLE",
+            "bnr1align": "f-jce f-aie tr",
+            "link1": "shopify:\/\/collections\/women",
+            "image2": "shopify:\/\/shop_images\/pre-fall-accesories.jpg",
+            "text2": "Pre-Fall Collection",
+            "text2-large": "ACCESSORIES",
+            "bnr2align": "f-ais f-jcs",
+            "link2": "shopify:\/\/collections\/women-fashion",
+            "image3": "shopify:\/\/shop_images\/gant-shoes.jpg",
+            "text3": "Best Brands",
+            "text3-large": "ELEGANT <br>SHOES",
+            "bnr3align": "f-aie f-jcs",
+            "link3": "shopify:\/\/collections\/women"
+          }
+        }
+      },
+      "block_order": [
+        "1559035416043"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "fullwidth": true,
+        "hide_mobile": false,
+        "cl": "#000000",
+        "fs": 15,
+        "fsm": 13,
+        "fw": "400",
+        "lh": 1.6,
+        "cl2": "#000000",
+        "tfs": 25,
+        "tfsm": 18,
+        "tff": "ft2",
+        "tfw": "700",
+        "tlh": 1.2,
+        "isbox": true,
+        "bg": "rgba(0,0,0,0)",
+        "opt": 0,
+        "bdr": 7,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633868306a9798076": {
+      "type": "collection-tab",
+      "blocks": {
+        "1552394502461-0": {
+          "type": "cltabs",
+          "settings": {
+            "title": "NEW ARRIVALS",
+            "collection": "women-fashion"
+          }
+        },
+        "1552394502461-1": {
+          "type": "cltabs",
+          "settings": {
+            "title": "BEST SELLER",
+            "collection": "women"
+          }
+        },
+        "1552394502461-2": {
+          "type": "cltabs",
+          "settings": {
+            "title": "TOP RATED",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1552394502461-0",
+        "1552394502461-1",
+        "1552394502461-2"
+      ],
+      "settings": {
+        "title": "<strong>WOMEN COLLECTION<\/strong>",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style4",
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "rows": 5,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "tab-style": "1",
+        "fs": 14,
+        "ff": "ft1",
+        "fw": "400",
+        "cl": "#666666",
+        "bg": "#ffffff",
+        "bd": "#eeeeee",
+        "bdr": 7,
+        "cla": "#000000",
+        "bga": "#fafafa",
+        "bda": "#000000",
+        "fsm": 14,
+        "clm": "#111111",
+        "bgm": "#eeeeee",
+        "clma": "#ffffff",
+        "bgma": "#111111"
+      }
+    },
+    "1633868321a8c62fdb": {
+      "type": "collection-list",
+      "blocks": {
+        "1552390315466-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/collection-list-1-demo4.jpg",
+            "collection_name": "MINI DRESS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390315466-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "collection_image": "shopify:\/\/shop_images\/women-shoes.jpg",
+            "collection_name": "SHOES",
+            "collection_btn": "Shop Shoes",
+            "url": ""
+          }
+        },
+        "1552390315466-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/mini-skirt.jpg",
+            "collection_name": "MINI SKIRTS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390315466-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accssories",
+            "collection_image": "shopify:\/\/shop_images\/collection-list-6-demo4.jpg",
+            "collection_name": "SUNGLASSES",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390322442": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/tops-new.jpg",
+            "collection_name": "TOPS",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        },
+        "1552390323951": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "collection_image": "shopify:\/\/shop_images\/tops_c89b3b8d-0b69-4c14-9b72-bb83e63354bc.jpg",
+            "collection_name": "New Arrivals",
+            "collection_btn": "Shop Now",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1552390315466-0",
+        "1552390315466-1",
+        "1552390315466-2",
+        "1552390315466-3",
+        "1552390322442",
+        "1552390323951"
+      ],
+      "settings": {
+        "title": "<b>HOT SALE COLLECTION<\/b>",
+        "subtitle": "FINAL REDUCTION UP TO 70% OFF",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "linear-gradient(45deg, rgba(196, 249, 202, 1), rgba(170, 225, 241, 1) 51%, rgba(240, 182, 242, 1) 100%)",
+        "hide_mobile": false,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "style": "style3",
+        "enable_carousel": true,
+        "autoplay": false,
+        "speed": 5,
+        "textalign": "text-center",
+        "leftpadzero": false,
+        "product_count": false,
+        "img_rad": 0,
+        "disable_zoom": false,
+        "tfs": 12,
+        "tfsm": 12,
+        "tff": "ft1",
+        "tfw": "400",
+        "tlh": 1.2,
+        "cl": "#111111",
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "show_buttons": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "16338683397403e164": {
+      "type": "products-columns",
+      "blocks": {
+        "1561379593178-0": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "<b>BEST SELLER<\/b>",
+            "collection": "women"
+          }
+        },
+        "1561379593178-1": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "<b>POPULAR<\/b>",
+            "collection": "hot-collection"
+          }
+        },
+        "1561379851571": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "<b>WEEKLY DEAL<\/b>",
+            "collection": "men"
+          }
+        },
+        "1561379593178-2": {
+          "type": "collection_column",
+          "settings": {
+            "tab_name": "<b>BEST RATED<\/b>",
+            "collection": "women-fashion"
+          }
+        }
+      },
+      "block_order": [
+        "1561379593178-0",
+        "1561379593178-1",
+        "1561379851571",
+        "1561379593178-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid": "4",
+        "rows": "3",
+        "cl": "#333333",
+        "fs": 18,
+        "fsm": 16,
+        "ff": "ft1",
+        "fw": "700",
+        "lh": 1.2
+      }
+    },
+    "163386677100a56e14": {
+      "type": "instagram",
+      "settings": {
+        "title": "FOLLOW US",
+        "subtitle": "@avonshopishop",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "act": "IGQWRQMGNIekpoeE5QZAEpwbkpHWnJOUkZAndkJZAU3FOdGxDbWNNb3BUS3lzbG8zLXN6NTBoZA0JLSmdMbU1YYTlwcUxDamZAYUUtzaXgwX243RTloY3VERTZAfLVlmSXhuTXFvZA3hueGJlVnhhaURmUW85X0NuZAk1tX1EZD",
+        "instastyle": "list",
+        "grid_space": true,
+        "brd": 0,
+        "limit": 10,
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "instagram_button_text": "",
+        "instagram_button_link": ""
+      }
+    },
+    "1633868380daca0bb0": {
+      "type": "text-line",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "bg": "#f06543",
+        "bgg": "linear-gradient(160deg, rgba(233, 146, 149, 1), rgba(138, 222, 161, 1) 26%, rgba(103, 212, 200, 1) 43%, rgba(218, 124, 177, 1) 60.432%, rgba(231, 154, 161, 1) 79%, rgba(244, 250, 187, 1) 100%)",
+        "br": 0,
+        "infolines": "All items under $100 with free shipping. Limited time only. <a href=\"https:\/\/avon-demo.myshopify.com\/collections\/women\">Shop Now <i class=\"fs20 at  at-long-arrow-alt-right\"><\/i><\/a>",
+        "cl": "#ffffff",
+        "fs": 25,
+        "fsm": 16,
+        "ff": "ft1",
+        "fw": "600",
+        "lh": 1.3,
+        "text-padding": 20
+      }
+    }
+  },
+  "order": [
+    "1633868263f21fa906",
+    "163386828047acb23e",
+    "1633868306a9798076",
+    "1633868321a8c62fdb",
+    "16338683397403e164",
+    "163386677100a56e14",
+    "1633868380daca0bb0"
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "sections": {
+    "16338693499eeeee23": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "1559118347709": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/msn-bnr1.jpg",
+            "title": "",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>With sun-soaked shades and beach-to-street staples, things are heating up this summer <a href=\"#\">Shop The Collection <\/a><\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "shopify:\/\/products\/button-up-top-black",
+            "btn-style": "btn",
+            "width": "wd66-md",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559118855830": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/small-1.jpg",
+            "title": "Activewear: White Hot",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Get outdoors in bold and bright whites from our latest FP Movement collection. <a href=\"#\">Shop Now <\/a><\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "shopify:\/\/products\/innerbloom-puffer-jacket-2",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559118972524": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12.jpg",
+            "title": "Shorts: High Profile",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Step into summer with a high rise and even higher hemline.<\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Shop Shorts",
+            "btnurl": "shopify:\/\/products\/martha-knit-top-new",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559119052418": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_f340eb12-cc01-449f-8e5e-841755130e5c.jpg",
+            "title": "Skirts: Sherbet Shades",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>A body-hugging silhouette and a pop-color hue combine in this essential skirt.<\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Shop Skirts",
+            "btnurl": "shopify:\/\/products\/classic-vase",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559119115122": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/best-collections.jpg",
+            "title": "Countdown To Summer",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>We’re celebrating summer’s upcoming arrival with a daily giveaway and a curated collection of our most-loved dresses.<\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "shopify:\/\/products\/neck-ribbed-knit",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559119505093": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wide2_f89b80b4-59ea-4c11-9108-5c7f78aafa94.jpg",
+            "title": "",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>In breezy silhouettes, saturated shades and dramatic details—she found paradise in endless adventure.<\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "Shop The Collection",
+            "btnurl": "shopify:\/\/products\/backpack-with-contrast-bow",
+            "btn-style": "btn",
+            "width": "wd66-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        },
+        "1559119564461": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/denim-sleek.jpg",
+            "title": "Denim: So Sleek",
+            "fs": 18,
+            "fsm": 18,
+            "tff": "ft2",
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>Update true blues with sleekest-ever skinnies and streamlined silhouettes. <a href=\"#\">Shop Jeans <\/a><\/p>",
+            "dfs": 14,
+            "dlh": 1.6,
+            "dfsm": 14,
+            "btntxt": "",
+            "btnurl": "shopify:\/\/products\/women-shorts",
+            "btn-style": "btn",
+            "width": "wd33-md",
+            "align_text": "left",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#444444"
+          }
+        }
+      },
+      "block_order": [
+        "1559118347709",
+        "1559118855830",
+        "1559118972524",
+        "1559119052418",
+        "1559119115122",
+        "1559119505093",
+        "1559119564461"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 6,
+        "grid-spacing-col": 3,
+        "prbox_style": "style1",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "products_rows_eFK3na": {
+      "type": "products-rows",
+      "settings": {
+        "title": "New Arrivals",
+        "subtitle": "We have your occasion covered",
+        "collection": "women-fashion",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "prbox_style": "style6",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": 8,
+        "secondary_image": true,
+        "show_vendor": false,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "show_view_all": "SHOP ALL STYLE",
+        "btn-style": "bdr-btn1",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163386677100a56e14": {
+      "type": "instagram",
+      "settings": {
+        "title": "Avone On Instagram",
+        "subtitle": "Phasellus lorem malesuada ligula pulvinar commodo auctom.",
+        "top-offeset": "default",
+        "section_width": false,
+        "npd": true,
+        "act": "IGQWRQMGNIekpoeE5QZAEpwbkpHWnJOUkZAndkJZAU3FOdGxDbWNNb3BUS3lzbG8zLXN6NTBoZA0JLSmdMbU1YYTlwcUxDamZAYUUtzaXgwX243RTloY3VERTZAfLVlmSXhuTXFvZA3hueGJlVnhhaURmUW85X0NuZAk1tX1EZD",
+        "instastyle": "carousel",
+        "grid_space": true,
+        "brd": 0,
+        "limit": 7,
+        "grid": 5,
+        "tablet-grid": 4,
+        "mobile-grid": 3,
+        "instagram_button_text": "View Gallery",
+        "instagram_button_link": ""
+      }
+    },
+    "1633869386fdd6cee5": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "16338693499eeeee23",
+    "products_rows_eFK3na",
+    "163386677100a56e14",
+    "1633869386fdd6cee5"
+  ]
+}

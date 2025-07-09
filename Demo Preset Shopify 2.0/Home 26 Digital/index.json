@@ -1,0 +1,435 @@
+{
+  "sections": {
+    "163394639224464997": {
+      "type": "slideshow",
+      "blocks": {
+        "160802093898535a92-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_20e1eb29-d298-4725-869f-5a5eef9663dc.jpg",
+            "ialign": "center_center",
+            "hd1": "128GB + 12GB RAM",
+            "pcl": "#000000",
+            "phbg": "#fff",
+            "title": "Samsung Galaxy <br>S20 Ultra 5G",
+            "tcl": "#000000",
+            "hd3": "Quad Camera 108 MP (f\/1.8) <br>+ 48-megapixel (f\/3.5) + 12-megapixel <br><br><b> From $899<\/b>",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        },
+        "160802093898535a92-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_a8fc09bc-a0a2-4aff-b4de-a875ac03fb17.jpg",
+            "ialign": "center_center",
+            "hd1": "Stunning over-ear design",
+            "pcl": "#000000",
+            "phbg": "#fff",
+            "title": "AirPods Max",
+            "tcl": "#000000",
+            "hd3": "AirPods Max feature incredible high-fidelity audio, <br>Adaptive EQ, Active Noise Cancellation, and spatial audio <br><br>\n<b>From $549<\/b>",
+            "cl": "#000000",
+            "hideh3": true,
+            "btn": "Shop now",
+            "link": "",
+            "btn1window": false,
+            "btn-style": "btn1",
+            "display_btn": false,
+            "btn2": "Shop now",
+            "link2": "",
+            "btn2window": false,
+            "btn-style1": "btn1",
+            "contwd": 1200,
+            "text-left": true,
+            "txtpos": "f-aic-md f-jcs-md",
+            "txtposm": "f-aic f-jcs"
+          }
+        }
+      },
+      "block_order": [
+        "160802093898535a92-0",
+        "160802093898535a92-1"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "npd": true,
+        "section_width": false,
+        "ht": "2",
+        "htd": 650,
+        "htt": 500,
+        "htm": 350,
+        "isovr": false,
+        "obg": "#3d4246",
+        "oopt": 0,
+        "brd": 0,
+        "pfs": 14,
+        "pfsm": 12,
+        "pff": "ft1",
+        "pfw": "400",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "bfs": 60,
+        "bfsm": 25,
+        "bff": "ft2",
+        "bfw": "700",
+        "blh": 1.1,
+        "bmb": 10,
+        "bmbm": 5,
+        "dfs": 16,
+        "dfsm": 14,
+        "dff": "ft1",
+        "dfw": "400",
+        "dlh": 1.2,
+        "dmb": 25,
+        "dmbm": 15,
+        "btn-size": "btn-md",
+        "btn-sizem": "mob-btn-md",
+        "txtanimation": false,
+        "anim": "st1",
+        "isbox": false,
+        "isboxm": false,
+        "tbg": "#ffffff",
+        "opt": 0.9,
+        "brad": 0,
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrowc": "#111111",
+        "arrowbg": "#fff",
+        "dot": false,
+        "dots": "#dddddd",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16339462463ca4fd69": {
+      "type": "banner-with-text",
+      "blocks": {
+        "160809721152fd7129-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iphone.jpg",
+            "layout": "left",
+            "title": "Apple iPhone 12 Pro Max",
+            "tcl": "#000000",
+            "text": "<p>A14 Bionic rockets past every other smartphone chip.<br\/> The Pro camera system takes low-light photography to the next \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/p><p><strong>Ceramic Shield, tougher than any smartphone glass.<br\/>Four finishing touches.<\/strong><\/p><p><strong>From $1250\t<\/strong>\t\t<\/p><p>\t\t\t\t\t\t\t\t\t<\/p>",
+            "cl": "#000000",
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/collections\/digital",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "tc",
+            "bg": "#fafafa"
+          }
+        },
+        "244be32c-e5fd-4d7b-872a-cadcb0180ca3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/airbud2.png",
+            "layout": "right",
+            "title": "Airpods with Charging Case",
+            "tcl": "#000000",
+            "text": "<p>Completely wireless headphones are automatically on and always connected. <br\/>AirPods sense when they’re in your ears and know when you’re listening. <\/p><p><strong>Seamless use with your Apple devices.<br\/>Fantastic sound and voice<\/strong><\/p>",
+            "cl": "#000000",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/digital",
+            "btncl": "#ffffff",
+            "btnbg": "#000000",
+            "btnbd": "#000000",
+            "text_align": "tc",
+            "bg": "#fafafa"
+          }
+        }
+      },
+      "block_order": [
+        "160809721152fd7129-0",
+        "244be32c-e5fd-4d7b-872a-cadcb0180ca3"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "npd": true,
+        "section_cov": false,
+        "sec_bg_clr": "#edb5b5",
+        "bgg": "",
+        "bg_rad": 0,
+        "tfs": 30,
+        "tfsm": 22,
+        "tff": "ft1",
+        "tfw": "700",
+        "tlh": 1.2,
+        "tmb": 15,
+        "tmbm": 10,
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.6,
+        "mb": 15,
+        "mbm": 10,
+        "img_rad": 0,
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "1633946487b4925e00": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "7595a58e-17da-466f-8a1d-0dec8e65405e": {
+          "type": "product",
+          "settings": {
+            "product": "13-inch-macbook-pro",
+            "width": "wd50-md"
+          }
+        },
+        "747feda9-8511-46c5-b5c8-2d347b6fdc25": {
+          "type": "product",
+          "settings": {
+            "product": "samsung-1tb-t5-portable-drive",
+            "width": "wd25-md"
+          }
+        },
+        "063330a5-d34b-42ed-9ac2-c74a2910eb3c": {
+          "type": "product",
+          "settings": {
+            "product": "apple-watch-series-2",
+            "width": "wd25-md"
+          }
+        },
+        "90dfdcbe-5d9f-4e3c-9af7-d43f5b8d1085": {
+          "type": "product",
+          "settings": {
+            "product": "1080p-wi-fi-security-camera",
+            "width": "wd25-md"
+          }
+        },
+        "3f850789-92c8-4201-9e43-cc142df15356": {
+          "type": "product",
+          "settings": {
+            "product": "xbox-one-wireless-controller",
+            "width": "wd25-md"
+          }
+        }
+      },
+      "block_order": [
+        "7595a58e-17da-466f-8a1d-0dec8e65405e",
+        "747feda9-8511-46c5-b5c8-2d347b6fdc25",
+        "063330a5-d34b-42ed-9ac2-c74a2910eb3c",
+        "90dfdcbe-5d9f-4e3c-9af7-d43f5b8d1085",
+        "3f850789-92c8-4201-9e43-cc142df15356"
+      ],
+      "settings": {
+        "title": "Best Selling Products",
+        "subtitle": "Do not miss to look at these best selling <br>and best rated products",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "bgg": "",
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 0,
+        "grid-spacing-col": 4,
+        "prbox_style": "style2",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "1633945453d3ab37c5": {
+      "type": "video",
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "npd": true,
+        "hide_mobile": false,
+        "bg_rad": 0,
+        "video_url": "",
+        "mp4video": "shopify:\/\/files\/videos\/A001_C031_1102YX_V1-0055_1080p_12000br.mp4",
+        "title": "<b>SAMSUNG NOTE 20 ULTRA<\/b>",
+        "color_ttl": "#ffffff",
+        "tfs": 67,
+        "tfsm": 22,
+        "bfw": "700",
+        "blh": 1.2,
+        "btntxt": "Buy Now",
+        "btnurl": "#",
+        "hide_btn": false,
+        "btn-style": "btn",
+        "btn-size": "btn-lg",
+        "hide_text": false,
+        "text_align": "f-jcc-md f-aie-md tc",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "section_space_Htyt6J": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 30,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    },
+    "1633944419580410db": {
+      "type": "custom-content",
+      "blocks": {
+        "160809580638cbfb2b-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/111_67a9fa13-9471-4ef3-894d-92b5ba52fcab.jpg",
+            "title": "Order Online",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>A year after the first generation took the smartwatch world by storm with its timeless looks<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "top-middle",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "d1db2210-8d6f-40dd-9970-33f0fbc84f54": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/333_dd53e470-d580-473f-be3e-f4860dae7774.jpg",
+            "title": "Free Shipping",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>A year after the first generation took the smartwatch world by storm with its timeless looks<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "52c5ceae-f580-432b-b852-c30735040390": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/222.jpg",
+            "title": "Best Quality Product",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>A year after the first generation took the smartwatch world by storm with its timeless looks<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        },
+        "08aef214-a7e8-4f03-bf8b-f8027897a2d2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/444.jpg",
+            "title": "30 Days Return",
+            "fs": 20,
+            "fsm": 18,
+            "fw": "600",
+            "lh": 1.2,
+            "text": "<p>A year after the first generation took the smartwatch world by storm with its timeless looks<\/p>",
+            "dfs": 14,
+            "dlh": 1.3,
+            "dfsm": 14,
+            "btntxt": "Read More",
+            "btnurl": "",
+            "btn-style": "btn",
+            "width": "wd25-md",
+            "alignment": "center",
+            "align_text": "tc",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "bg_rad": 0,
+            "block_txt": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "160809580638cbfb2b-0",
+        "d1db2210-8d6f-40dd-9970-33f0fbc84f54",
+        "52c5ceae-f580-432b-b852-c30735040390",
+        "08aef214-a7e8-4f03-bf8b-f8027897a2d2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#eeeeee",
+        "bgg": "",
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "prbox_style": "style1",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "section_space_gKXyC4": {
+      "type": "section-space",
+      "settings": {
+        "sdesk": 50,
+        "mdesk": 15,
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "163394639224464997",
+    "16339462463ca4fd69",
+    "1633946487b4925e00",
+    "1633945453d3ab37c5",
+    "section_space_Htyt6J",
+    "1633944419580410db",
+    "section_space_gKXyC4"
+  ]
+}

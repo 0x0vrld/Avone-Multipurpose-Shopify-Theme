@@ -1,0 +1,227 @@
+{
+  "sections": {
+    "163386665192586563": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "ds_height": 600,
+        "tb_height": 460,
+        "mb_height": 250,
+        "parallax_scroll": false,
+        "image": "shopify:\/\/shop_images\/dome4-bnr1.jpg",
+        "alignment": "top",
+        "pretext": "OUR CORE COLLECTION",
+        "pcl": "#333333",
+        "pfs": 15,
+        "pfsm": 13,
+        "pff": "ft1",
+        "pfw": "500",
+        "plh": 1.2,
+        "pmb": 5,
+        "pmbm": 5,
+        "title": "Effortless Style",
+        "tcl": "#000000",
+        "tfs": 36,
+        "tfsm": 26,
+        "tff": "ft2",
+        "tfw": "500",
+        "tlh": 1.2,
+        "tmb": 20,
+        "tmbm": 10,
+        "text": "<p>We carry simple, wearable garments. Neutral colors.<br\/>Natural fibres. Relaxed silhouettes. Effortless, everyday fashion.<\/p>",
+        "cl": "#000000",
+        "fs": 16,
+        "fsm": 14,
+        "fw": "400",
+        "lh": 1.2,
+        "mb": 30,
+        "mbm": 20,
+        "button_label": "Browse All",
+        "button_link": "shopify:\/\/collections\/women",
+        "link_image": false,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-md",
+        "btn-size-mob": "mob-btn-sm",
+        "isbox": false,
+        "bg": "#ffffff",
+        "opt": 0.9,
+        "bdr": 0,
+        "textalign": "tc",
+        "bxalign": "f-jcc f-aic",
+        "wd": 1200,
+        "snow_effect": false,
+        "snow_style": "style1",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cntbg": "#000000",
+        "cntcl": "#eeeeee",
+        "cntbd": "#000000"
+      }
+    },
+    "163386670249202fea": {
+      "type": "collections-banners",
+      "blocks": {
+        "1558611474633-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottoms",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/shop-edit.jpg",
+            "collection_name": "Shop the Edit",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "",
+            "width": "50"
+          }
+        },
+        "1558611474633-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "url": "",
+            "collection_image": "shopify:\/\/shop_images\/shop-best.jpg",
+            "collection_name": "Shop the Best Sellers",
+            "collection_name2": "",
+            "text_pos": "f-jcc f-aie",
+            "talign": "tc",
+            "collection_btn": "",
+            "width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "1558611474633-1",
+        "1558611474633-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "npd": false,
+        "hide_mobile": false,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 2,
+        "box-width": 50,
+        "cl": "#000000",
+        "isbox": true,
+        "bg": "#ffffff",
+        "bxopt": 0.9,
+        "bdr": 0,
+        "tfs": 16,
+        "tfsm": 15,
+        "tff": "ft2",
+        "tfw": "500",
+        "tlh": 1.2,
+        "fs": 13,
+        "fsm": 12,
+        "fw": "400",
+        "lh": 1.2,
+        "disable_zoom": false,
+        "show_buttons": true,
+        "btn-style": "btn",
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm",
+        "snow_effect": false,
+        "snow_style": "style1"
+      }
+    },
+    "16338667496c6c04c6": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "1558614394193": {
+          "type": "product",
+          "settings": {
+            "product": "backpack-with-contrast",
+            "width": "wd25-md"
+          }
+        },
+        "1558614439743": {
+          "type": "product",
+          "settings": {
+            "product": "emotion-mini-dress",
+            "width": "wd50-md"
+          }
+        },
+        "1558614575776": {
+          "type": "product",
+          "settings": {
+            "product": "metal-buckle-skinny-belt",
+            "width": "wd25-md"
+          }
+        },
+        "1558614599910": {
+          "type": "product",
+          "settings": {
+            "product": "design-cuff-bracelet",
+            "width": "wd25-md"
+          }
+        },
+        "1558614618287": {
+          "type": "product",
+          "settings": {
+            "product": "top-slip-on-velcro-sneakers",
+            "width": "wd25-md"
+          }
+        }
+      },
+      "block_order": [
+        "1558614394193",
+        "1558614439743",
+        "1558614575776",
+        "1558614599910",
+        "1558614618287"
+      ],
+      "settings": {
+        "title": "Featured Products",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "prbox_style": "style2",
+        "show_color_swatch": true,
+        "btn-size-desk": "btn-sm",
+        "btn-size-mob": "mob-btn-sm"
+      }
+    },
+    "163386677100a56e14": {
+      "type": "instagram",
+      "settings": {
+        "title": "Avone On Instagram",
+        "subtitle": "Phasellus lorem malesuada ligula pulvinar commodo auctom.",
+        "top-offeset": "default",
+        "section_width": false,
+        "act": "IGQWRQMGNIekpoeE5QZAEpwbkpHWnJOUkZAndkJZAU3FOdGxDbWNNb3BUS3lzbG8zLXN6NTBoZA0JLSmdMbU1YYTlwcUxDamZAYUUtzaXgwX243RTloY3VERTZAfLVlmSXhuTXFvZA3hueGJlVnhhaURmUW85X0NuZAk1tX1EZD",
+        "instastyle": "carousel",
+        "grid_space": true,
+        "limit": 10,
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 5,
+        "instagram_button_text": "View Gallery",
+        "instagram_button_link": ""
+      }
+    },
+    "1633866784449957f4": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "163386665192586563",
+    "163386670249202fea",
+    "16338667496c6c04c6",
+    "163386677100a56e14",
+    "1633866784449957f4"
+  ]
+}
